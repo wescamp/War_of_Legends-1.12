@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: War_of_Legends-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-25 19:04-0400\n"
+"POT-Creation-Date: 2013-11-30 19:18+0100\n"
 "PO-Revision-Date: 2012-10-13 04:24+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. [language]
-#: War_of_Legends/_main.cfg:60
+#: War_of_Legends/_main.cfg:61
 msgid "type^arcane focus"
 msgstr ""
 
 #. [lua]
-#: War_of_Legends/_main.cfg:80 War_of_Legends/macros/nightmare-utils.cfg:482
+#: War_of_Legends/_main.cfg:81 War_of_Legends/macros/nightmare-utils.cfg:482
 msgid ""
 "cursed: This unit is cursed. This unit gets a 15% defence penalty on every "
 "terrain."
@@ -44,106 +44,106 @@ msgstr ""
 msgid "War of Legends RPG"
 msgstr ""
 
-#. [multiplayer_side]: id=Aragwaithi, type=Aragwaith Flagbearer
-#. [multiplayer_side]: id=Aragwaithi_ALE, type=Aragwaith Captain
-#. [multiplayer_side]: id=Aragwaithi_RPG, type=Aragwaith Spearman
+#. [multiplayer_side]: id=Aragwaithi, type=random
+#. [multiplayer_side]: id=Aragwaithi_EL, type=random
+#. [multiplayer_side]: id=Aragwaithi_RPG, type=random
 #: War_of_Legends/factions/Aragwaithi-EL.cfg:5
 #: War_of_Legends/factions/Aragwaithi-RPG.cfg:5
 #: War_of_Legends/factions/Aragwaithi-WOL.cfg:5
 msgid "Aragwaithi"
 msgstr ""
 
-#. [multiplayer_side]: id=Elementals, type=Red Mage
-#. [multiplayer_side]: id=Elementals_EL, type=Arch Mage
-#. [multiplayer_side]: id=Elementals_RPG, type=Mage
+#. [multiplayer_side]: id=Elementals, type=random
+#. [multiplayer_side]: id=Elementals_EL, type=random
+#. [multiplayer_side]: id=Elementals_RPG, type=random
 #: War_of_Legends/factions/Elementals-EL.cfg:5
 #: War_of_Legends/factions/Elementals-RPG.cfg:5
 #: War_of_Legends/factions/Elementals-WOL.cfg:5
 msgid "Elementals"
 msgstr ""
 
-#. [multiplayer_side]: id=Human Alliance, type=Swordsman
-#. [multiplayer_side]: id=Human_Alliance_EL, type=Royal Guard
-#. [multiplayer_side]: id=Human_Alliance_RPG, type=Infantryman
+#. [multiplayer_side]: id=Human Alliance, type=random
+#. [multiplayer_side]: id=Human_Alliance_EL, type=random
+#. [multiplayer_side]: id=Human_Alliance_RPG, type=random
 #: War_of_Legends/factions/Humans-EL.cfg:4
 #: War_of_Legends/factions/Humans-RPG.cfg:5
 #: War_of_Legends/factions/Humans-WOL.cfg:4
 msgid "Human Alliance"
 msgstr ""
 
-#. [multiplayer_side]: id=Dark Legion, type=Dark Longswordsman
-#. [multiplayer_side]: id=Dark_Legion_EL, type=Dark Champion
-#. [multiplayer_side]: id=Dark_Legion_RPG, type=Dark Soldier
+#. [multiplayer_side]: id=Dark Legion, type=random
+#. [multiplayer_side]: id=Dark_Legion_EL, type=random
+#. [multiplayer_side]: id=Dark_Legion_RPG, type=random
 #: War_of_Legends/factions/Legion-EL.cfg:5
 #: War_of_Legends/factions/Legion-RPG.cfg:5
 #: War_of_Legends/factions/Legion-WOL.cfg:5
 msgid "Dark Legion"
 msgstr ""
 
-#. [multiplayer_side]: id=Minotaurs, type=Minotaur Rouser
-#. [multiplayer_side]: id=Minotaurs_EL, type=Minotaur Overlord
-#. [multiplayer_side]: id=Minotaurs_RPG, type=Minotaur Gore
+#. [multiplayer_side]: id=Minotaurs, type=random
+#. [multiplayer_side]: id=Minotaurs_EL, type=random
+#. [multiplayer_side]: id=Minotaurs_RPG, type=random
 #: War_of_Legends/factions/Minotaurs-EL.cfg:5
 #: War_of_Legends/factions/Minotaurs-RPG.cfg:5
 #: War_of_Legends/factions/Minotaurs-WOL.cfg:5
 msgid "Minotaurs"
 msgstr ""
 
-#. [multiplayer_side]: id=Orcish Union, type=Orcish Warrior
-#. [multiplayer_side]: id=Orcish_Union_EL, type=Orcish Warlord
-#. [multiplayer_side]: id=Orcish_Union_RPG, type=Orcish Grunt
+#. [multiplayer_side]: id=Orcish Union, type=random
+#. [multiplayer_side]: id=Orcish_Union_EL, type=random
+#. [multiplayer_side]: id=Orcish_Union_RPG, type=random
 #: War_of_Legends/factions/Orcs-EL.cfg:5
 #: War_of_Legends/factions/Orcs-RPG.cfg:5
 #: War_of_Legends/factions/Orcs-WOL.cfg:4
 msgid "Orcish Union"
 msgstr ""
 
-#. [multiplayer_side]: id=Outlaws, type=Huntress
-#. [multiplayer_side]: id=Outlaws_EL, type=Prowler
-#. [multiplayer_side]: id=Outlaws_RPG, type=Tracker
+#. [multiplayer_side]: id=Outlaws, type=random
+#. [multiplayer_side]: id=Outlaws_EL, type=random
+#. [multiplayer_side]: id=Outlaws_RPG, type=random
 #: War_of_Legends/factions/Outlaws-EL.cfg:5
 #: War_of_Legends/factions/Outlaws-RPG.cfg:5
 #: War_of_Legends/factions/Outlaws-WOL.cfg:5
 msgid "Outlaws"
 msgstr ""
 
-#. [multiplayer_side]: id=Southerners, type=South Elven Warrior
-#. [multiplayer_side]: id=Southerners_EL, type=South Elven Champion
-#. [multiplayer_side]: id=Southerners_RPG, type=South Elven Hunter
+#. [multiplayer_side]: id=Southerners, type=random
+#. [multiplayer_side]: id=Southerners_EL, type=random
+#. [multiplayer_side]: id=Southerners_RPG, type=random
 #: War_of_Legends/factions/Southerners-EL.cfg:5
 #: War_of_Legends/factions/Southerners-RPG.cfg:5
 #: War_of_Legends/factions/Southerners-WOL.cfg:4
 msgid "Southerners"
 msgstr ""
 
-#. [multiplayer_side]: id=Sylvans, type=Elvish Captain
-#. [multiplayer_side]: id=Sylvans_RPG, type=Elvish Fighter
+#. [multiplayer_side]: id=Sylvans, type=random
+#. [multiplayer_side]: id=Sylvans_RPG, type=random
 #: War_of_Legends/factions/Sylvans-RPG.cfg:5
 #: War_of_Legends/factions/Sylvans-WOL.cfg:5
 msgid "Sylvans"
 msgstr ""
 
-#. [multiplayer_side]: id=Undead, type=Deathmaster
-#. [multiplayer_side]: id=Undead_EL, type=Demilich
-#. [multiplayer_side]: id=Undead_RPG, type=Initiate
+#. [multiplayer_side]: id=Undead, type=random
+#. [multiplayer_side]: id=Undead_EL, type=random
+#. [multiplayer_side]: id=Undead_RPG, type=random
 #: War_of_Legends/factions/Undead-EL.cfg:5
 #: War_of_Legends/factions/Undead-RPG.cfg:5
 #: War_of_Legends/factions/Undead-WOL.cfg:4
 msgid "Undead Hordes"
 msgstr ""
 
-#. [multiplayer_side]: id=Vampires, type=Vampire Noble
-#. [multiplayer_side]: id=Vampires_EL, type=Sire
-#. [multiplayer_side]: id=Vampires_RPG, type=Fledgeling
+#. [multiplayer_side]: id=Vampires, type=random
+#. [multiplayer_side]: id=Vampires_EL, type=random
+#. [multiplayer_side]: id=Vampires_RPG, type=random
 #: War_of_Legends/factions/Vampires-EL.cfg:5
 #: War_of_Legends/factions/Vampires-RPG.cfg:5
 #: War_of_Legends/factions/Vampires-WOL.cfg:5
 msgid "Vampires"
 msgstr ""
 
-#. [multiplayer_side]: id=Windsong, type=Prophetess
-#. [multiplayer_side]: id=Windsong_EL, type=Ascendant
-#. [multiplayer_side]: id=Windsong_RPG, type=Weaver
+#. [multiplayer_side]: id=Windsong, type=random
+#. [multiplayer_side]: id=Windsong_EL, type=random
+#. [multiplayer_side]: id=Windsong_RPG, type=random
 #: War_of_Legends/factions/Windsong-EL.cfg:5
 #: War_of_Legends/factions/Windsong-RPG.cfg:5
 #: War_of_Legends/factions/Windsong-WOL.cfg:5
@@ -157,63 +157,63 @@ msgid ""
 "Notes: "
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:29
+#: War_of_Legends/macros/abilities.cfg:30
 msgid ""
 " Vegetated terrains are forest, great tree, farmland and mushroom grove "
 "hexes."
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:35
+#: War_of_Legends/macros/abilities.cfg:33
 msgid "dauntless"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:37
+#: War_of_Legends/macros/abilities.cfg:35
 msgid "Dauntless"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:37
+#: War_of_Legends/macros/abilities.cfg:35
 msgid ""
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
 "Weaknesses are not affected."
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:40
+#: War_of_Legends/macros/abilities.cfg:38
 msgid "sylvan spark"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:43
+#: War_of_Legends/macros/abilities.cfg:41
 msgid ""
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:43
+#: War_of_Legends/macros/abilities.cfg:41
 msgid "Sylvan Spark"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:66
-#: War_of_Legends/macros/abilities.cfg:67
+#: War_of_Legends/macros/abilities.cfg:64
+#: War_of_Legends/macros/abilities.cfg:65
 msgid "protection"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:67
+#: War_of_Legends/macros/abilities.cfg:65
 msgid ""
 "Adjacent units of lower level from this side receive a +20% bonus to all "
 "resistances (up to a maximum of 50%)."
 msgstr ""
 
 #. [illuminates]: id=obscure
-#: War_of_Legends/macros/abilities.cfg:147
+#: War_of_Legends/macros/abilities.cfg:145
 msgid "obscures"
 msgstr ""
 
 #. [illuminates]: id=obscure
-#: War_of_Legends/macros/abilities.cfg:148
+#: War_of_Legends/macros/abilities.cfg:146
 msgid "female^obscures"
 msgstr ""
 
 #. [illuminates]: id=obscure
-#: War_of_Legends/macros/abilities.cfg:149
+#: War_of_Legends/macros/abilities.cfg:147
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse.\n"
@@ -223,15 +223,15 @@ msgid ""
 msgstr ""
 
 #. [illuminates]: id=obscure
-#: War_of_Legends/macros/abilities.cfg:149
+#: War_of_Legends/macros/abilities.cfg:147
 msgid "Obscures"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:157
+#: War_of_Legends/macros/abilities.cfg:155
 msgid "terror"
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:158
+#: War_of_Legends/macros/abilities.cfg:156
 msgid ""
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
@@ -242,27 +242,27 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Dark Terror, race=human
-#: War_of_Legends/macros/abilities.cfg:158
+#: War_of_Legends/macros/abilities.cfg:156
 #: War_of_Legends/units/human-legion/Dark_Terror.cfg:4
 msgid "Terror"
 msgstr ""
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #. [illuminates]: id=sylvan_essence_illum
-#: War_of_Legends/macros/abilities.cfg:323
-#: War_of_Legends/macros/abilities.cfg:359
+#: War_of_Legends/macros/abilities.cfg:321
+#: War_of_Legends/macros/abilities.cfg:357
 msgid "sylvan essence"
 msgstr ""
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #. [illuminates]: id=sylvan_essence_illum
-#: War_of_Legends/macros/abilities.cfg:324
-#: War_of_Legends/macros/abilities.cfg:360
+#: War_of_Legends/macros/abilities.cfg:322
+#: War_of_Legends/macros/abilities.cfg:358
 msgid "Sylvan Essence"
 msgstr ""
 
 #. [heals]: id=sylvan_essence_healing_nounion
-#: War_of_Legends/macros/abilities.cfg:324
+#: War_of_Legends/macros/abilities.cfg:322
 msgid ""
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
 "a base maximum of 8 HP. In vegetated terrains, it will conceal itself from "
@@ -271,7 +271,7 @@ msgid ""
 msgstr ""
 
 #. [illuminates]: id=sylvan_essence_illum
-#: War_of_Legends/macros/abilities.cfg:360
+#: War_of_Legends/macros/abilities.cfg:358
 msgid ""
 "This unit illuminates the surrounding area, making lawful units fight "
 "better, and chaotic units fight worse. Any units adjacent to this unit will "
@@ -284,21 +284,21 @@ msgid ""
 "but only in vegetated terrains."
 msgstr ""
 
-#: War_of_Legends/macros/abilities.cfg:397
+#: War_of_Legends/macros/abilities.cfg:395
 msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
 
 #. [leadership]: id=inspire_0
-#: War_of_Legends/macros/abilities.cfg:406
-#: War_of_Legends/macros/abilities.cfg:437
-#: War_of_Legends/macros/abilities.cfg:480
+#: War_of_Legends/macros/abilities.cfg:404
+#: War_of_Legends/macros/abilities.cfg:435
+#: War_of_Legends/macros/abilities.cfg:478
 msgid "inspire"
 msgstr ""
 
 #. [leadership]: id=inspire_0
-#: War_of_Legends/macros/abilities.cfg:407
+#: War_of_Legends/macros/abilities.cfg:405
 msgid ""
 "This unit can inspire own L0 or L1 units that are next to it, making them "
 "fight better. Adjacent own units of L1 will do 10% more damage; L0 units "
@@ -306,14 +306,14 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=inspire_0
-#: War_of_Legends/macros/abilities.cfg:407
-#: War_of_Legends/macros/abilities.cfg:438
-#: War_of_Legends/macros/abilities.cfg:481
+#: War_of_Legends/macros/abilities.cfg:405
+#: War_of_Legends/macros/abilities.cfg:436
+#: War_of_Legends/macros/abilities.cfg:479
 msgid "Inspire"
 msgstr ""
 
 #. [leadership]: id=inspire_0
-#: War_of_Legends/macros/abilities.cfg:438
+#: War_of_Legends/macros/abilities.cfg:436
 msgid ""
 "This unit can inspire own L0, L1, or L2 units that are next to it, making "
 "them fight better. Adjacent own units of L2 will do more 10% more damage; L1 "
@@ -321,7 +321,7 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=inspire_0
-#: War_of_Legends/macros/abilities.cfg:481
+#: War_of_Legends/macros/abilities.cfg:479
 msgid ""
 "This unit can inspire own L0, L1, L2, or L3 units that are next to it, "
 "making them fight better. Adjacent own units of L3 will do more 10% more "
@@ -330,20 +330,20 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=camouflage
-#: War_of_Legends/macros/abilities.cfg:535
-#: War_of_Legends/macros/abilities.cfg:536
+#: War_of_Legends/macros/abilities.cfg:533
+#: War_of_Legends/macros/abilities.cfg:534
 msgid "camouflage"
 msgstr ""
 
 #. [hides]: id=camouflage
-#: War_of_Legends/macros/abilities.cfg:537
-#: War_of_Legends/macros/abilities.cfg:540
+#: War_of_Legends/macros/abilities.cfg:535
+#: War_of_Legends/macros/abilities.cfg:538
 msgid "Camouflage"
 msgstr ""
 
 #. [hides]: id=camouflage
-#: War_of_Legends/macros/abilities.cfg:537
-#: War_of_Legends/macros/abilities.cfg:540
+#: War_of_Legends/macros/abilities.cfg:535
+#: War_of_Legends/macros/abilities.cfg:538
 msgid ""
 "This unit can hide in sand, desert, desert dunes, and craters, and remain "
 "undetected by its enemies.\n"
@@ -354,105 +354,105 @@ msgid ""
 msgstr ""
 
 #. [skirmisher]: id=distract
-#: War_of_Legends/macros/abilities.cfg:555
+#: War_of_Legends/macros/abilities.cfg:553
 msgid "distract"
 msgstr ""
 
 #. [skirmisher]: id=distract
-#: War_of_Legends/macros/abilities.cfg:556
+#: War_of_Legends/macros/abilities.cfg:554
 msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
 msgstr ""
 
 #. [skirmisher]: id=distract
-#: War_of_Legends/macros/abilities.cfg:556
+#: War_of_Legends/macros/abilities.cfg:554
 msgid "Distract"
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:577
 #: War_of_Legends/macros/abilities.cfg:579
-#: War_of_Legends/macros/abilities.cfg:581
 msgid "ice convalesence"
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:578
 #: War_of_Legends/macros/abilities.cfg:580
-#: War_of_Legends/macros/abilities.cfg:582
 msgid ""
 "This unit will regenerate 5 HP if it is on snowy or icy terrain. The effects "
 "of poison will not be cured or prolonged."
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:578
 #: War_of_Legends/macros/abilities.cfg:580
-#: War_of_Legends/macros/abilities.cfg:582
 msgid "Ice Convalescence:"
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:594
 #: War_of_Legends/macros/abilities.cfg:596
-#: War_of_Legends/macros/abilities.cfg:598
 msgid "aquatic body"
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:595
 #: War_of_Legends/macros/abilities.cfg:597
-#: War_of_Legends/macros/abilities.cfg:599
 msgid "This unit will regenerate 5 HP when in deep or shallow water."
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:595
 #: War_of_Legends/macros/abilities.cfg:597
-#: War_of_Legends/macros/abilities.cfg:599
 msgid "Aquatic Body"
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:611
 #: War_of_Legends/macros/abilities.cfg:613
-#: War_of_Legends/macros/abilities.cfg:615
 msgid "sylvan revitalisation"
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:612
 #: War_of_Legends/macros/abilities.cfg:614
-#: War_of_Legends/macros/abilities.cfg:616
 msgid "This unit will regenerate 5 HP while in a vegetated area."
 msgstr ""
 
 #. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:612
 #: War_of_Legends/macros/abilities.cfg:614
-#: War_of_Legends/macros/abilities.cfg:616
 msgid "Sylvan Revitalisation"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: War_of_Legends/macros/abilities.cfg:629
+#: War_of_Legends/macros/abilities.cfg:631
+msgid "earth recuperation"
 msgstr ""
 
 #. [regenerate]: id=healing
 #: War_of_Legends/macros/abilities.cfg:630
 #: War_of_Legends/macros/abilities.cfg:632
-msgid "earth recuperation"
-msgstr ""
-
-#. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:631
-#: War_of_Legends/macros/abilities.cfg:633
 msgid "Earth Recuperation"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:631
-#: War_of_Legends/macros/abilities.cfg:633
+#: War_of_Legends/macros/abilities.cfg:630
+#: War_of_Legends/macros/abilities.cfg:632
 msgid ""
 "This unit will repair its body with the rocks found while in/on hills, "
 "caves, or mountains, thus recovering 5 HP in the process."
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:647
+#: War_of_Legends/macros/abilities.cfg:646
 msgid "heat absorption"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:648
+#: War_of_Legends/macros/abilities.cfg:647
 msgid ""
 "This unit will absorb heat whenever it is on or floating above lava, thus "
 "recovering 5 HP. In addition, this unit will absorb heat from other warm "
@@ -460,34 +460,34 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:648
+#: War_of_Legends/macros/abilities.cfg:647
 msgid "Heat Absorption"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:667
+#: War_of_Legends/macros/abilities.cfg:666
 msgid "aquatic regeneration"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:668
+#: War_of_Legends/macros/abilities.cfg:667
 msgid ""
 "This unit will recover 8 HP per turn when on aquatic terrain. If this unit "
 "is poisoned it will be cured of it instead."
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:668
+#: War_of_Legends/macros/abilities.cfg:667
 msgid "Aquatic Regeneration"
 msgstr ""
 
 #. [hides]: id=gelid_incarnation_conceal
-#: War_of_Legends/macros/abilities.cfg:677
+#: War_of_Legends/macros/abilities.cfg:676
 msgid "gelid incarnation"
 msgstr ""
 
 #. [hides]: id=gelid_incarnation_conceal
-#: War_of_Legends/macros/abilities.cfg:678
+#: War_of_Legends/macros/abilities.cfg:677
 msgid ""
 "This unit will regenerate (but not unpoison) 4 HP per turn.\n"
 "\n"
@@ -498,64 +498,64 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=gelid_incarnation_conceal
-#: War_of_Legends/macros/abilities.cfg:678
+#: War_of_Legends/macros/abilities.cfg:677
 msgid "Gelid Incarnation"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:724
+#: War_of_Legends/macros/abilities.cfg:723
 msgid "terra resucitation"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:725
+#: War_of_Legends/macros/abilities.cfg:724
 msgid "Terra Resuscitation"
 msgstr ""
 
 #. [regenerate]: id=healing
-#: War_of_Legends/macros/abilities.cfg:725
+#: War_of_Legends/macros/abilities.cfg:724
 msgid ""
 "The unit will heal itself 8 HP per turn on earthy or vegetated terrain. If "
 "it is poisoned, it will remove the poison instead of healing."
 msgstr ""
 
 #. [regenerate]: id=recovery
-#: War_of_Legends/macros/abilities.cfg:736
+#: War_of_Legends/macros/abilities.cfg:735
 msgid "recovery"
 msgstr ""
 
 #. [regenerate]: id=recovery
-#: War_of_Legends/macros/abilities.cfg:737
+#: War_of_Legends/macros/abilities.cfg:736
 msgid "female^recovery"
 msgstr ""
 
 #. [regenerate]: id=recovery
-#: War_of_Legends/macros/abilities.cfg:738
+#: War_of_Legends/macros/abilities.cfg:737
 msgid ""
 "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
 
 #. [regenerate]: id=recovery
-#: War_of_Legends/macros/abilities.cfg:738
+#: War_of_Legends/macros/abilities.cfg:737
 msgid "Recovery"
 msgstr ""
 
 #. [hides]: id=swamp_prowl
+#: War_of_Legends/macros/abilities.cfg:746
 #: War_of_Legends/macros/abilities.cfg:747
-#: War_of_Legends/macros/abilities.cfg:748
 msgid "swamp prowl"
 msgstr ""
 
 #. [hides]: id=swamp_prowl
-#: War_of_Legends/macros/abilities.cfg:749
-#: War_of_Legends/macros/abilities.cfg:752
+#: War_of_Legends/macros/abilities.cfg:748
+#: War_of_Legends/macros/abilities.cfg:751
 msgid "Swamp Prowl"
 msgstr ""
 
 #. [hides]: id=swamp_prowl
-#: War_of_Legends/macros/abilities.cfg:749
-#: War_of_Legends/macros/abilities.cfg:752
+#: War_of_Legends/macros/abilities.cfg:748
+#: War_of_Legends/macros/abilities.cfg:751
 msgid ""
 "This unit can hide in swamps, and remain undetected by its enemies.\n"
 "\n"
@@ -1076,7 +1076,7 @@ msgstr ""
 #. [attack]: type=blade
 #: War_of_Legends/units/aberrations/Black_Cat.cfg:35
 #: War_of_Legends/units/aberrations/Calamity.cfg:39
-#: War_of_Legends/units/monsters/Young_Gryphon.cfg:40
+#: War_of_Legends/units/monsters/Young_Gryphon.cfg:42
 msgid "claws"
 msgstr ""
 
@@ -1122,7 +1122,7 @@ msgstr ""
 #: War_of_Legends/units/aberrations/Inquisitor.cfg:37
 #: War_of_Legends/units/aberrations/Scornful_Watcher.cfg:42
 #: War_of_Legends/units/aberrations/Spiteful_Watcher.cfg:34
-#: War_of_Legends/units/orcs/Nightblade.cfg:55
+#: War_of_Legends/units/orcs/Nightblade.cfg:53
 msgid "kick"
 msgstr ""
 
@@ -1379,21 +1379,21 @@ msgstr ""
 
 #. [attack]: type=fire
 #: War_of_Legends/units/elementals/Brazier_Imp.cfg:28
-#: War_of_Legends/units/elementals/Brazier_Whelpling.cfg:28
+#: War_of_Legends/units/elementals/Brazier_Whelpling.cfg:29
 #: War_of_Legends/units/elementals/Fire_Ghost.cfg:29
 #: War_of_Legends/units/elementals/Furnace_Beast.cfg:27
-#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:34
+#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:35
 #: War_of_Legends/units/elementals/Lava_Giant.cfg:28
 msgid "fire claws"
 msgstr ""
 
 #. [unit_type]: id=Brazier Whelpling, race=elemental
-#: War_of_Legends/units/elementals/Brazier_Whelpling.cfg:5
+#: War_of_Legends/units/elementals/Brazier_Whelpling.cfg:6
 msgid "Brazier Whelpling"
 msgstr ""
 
 #. [unit_type]: id=Brazier Whelpling, race=elemental
-#: War_of_Legends/units/elementals/Brazier_Whelpling.cfg:21
+#: War_of_Legends/units/elementals/Brazier_Whelpling.cfg:22
 msgid ""
 "Brazier Whelplings are Brazier Imps which have not completely hardened yet, "
 "thus they are weaker than their older siblings. Not an imposing threat, but "
@@ -1529,12 +1529,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Lava Behemoth, race=elemental
-#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:5
+#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:6
 msgid "Lava Behemoth"
 msgstr ""
 
 #. [unit_type]: id=Lava Behemoth, race=elemental
-#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:26
+#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:27
 msgid ""
 "Enormous in size and twice as aggressive as fifty raging bulls combined, "
 "these enormous beasts are believed to be the hearts of volcanoes themselves "
@@ -1544,7 +1544,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:43
+#: War_of_Legends/units/elementals/Lava_Behemoth.cfg:44
 msgid "erupt"
 msgstr ""
 
@@ -1764,39 +1764,39 @@ msgid ""
 msgstr ""
 
 #. [race]: id=southern elf
-#: War_of_Legends/units/elves-south.cfg:9
+#: War_of_Legends/units/elves-desert.cfg:9
 msgid "race^Southern Elf"
 msgstr ""
 
 #. [race]: id=southern elf
-#: War_of_Legends/units/elves-south.cfg:10
+#: War_of_Legends/units/elves-desert.cfg:10
 msgid "race+female^Southern Elf"
 msgstr ""
 
 #. [race]: id=southern elf
-#: War_of_Legends/units/elves-south.cfg:11
+#: War_of_Legends/units/elves-desert.cfg:11
 msgid "race^Southern Elves"
 msgstr ""
 
 #. [race]: id=southern elf
-#: War_of_Legends/units/elves-south.cfg:12
+#: War_of_Legends/units/elves-desert.cfg:12
 msgid ""
 "Having adapted to the harsh climate of the barren deserts, these elves have "
 "long forgotten their previous home of the evergreen forests. Unlike their "
-"forest counterparts, most of their troops have dropped the bow in favor of "
+"forest counterparts, most of their troops have dropped the bow in favour of "
 "either the bolas or the shield. The bow is still used by their archers, but "
 "they lack the accuracy of their ancestors."
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Archer, race=aragwaith
 #. [unit_type]: id=South Elven Archer, race=southern elf
-#: War_of_Legends/units/elves-south/Archer.cfg:5
+#: War_of_Legends/units/elves-desert/Archer.cfg:5
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Archer.cfg:5
 msgid "Archer"
 msgstr ""
 
 #. [unit_type]: id=South Elven Archer, race=southern elf
-#: War_of_Legends/units/elves-south/Archer.cfg:19
+#: War_of_Legends/units/elves-desert/Archer.cfg:19
 msgid ""
 "Archers of the Southern Elves are trained from youth in archery, and so "
 "skilled in long-range combat. Though their bows are cruder and their arrows "
@@ -1805,15 +1805,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: War_of_Legends/units/elves-south/Archer.cfg:23
-#: War_of_Legends/units/elves-south/Champion.cfg:25
-#: War_of_Legends/units/elves-south/Guard.cfg:40
-#: War_of_Legends/units/elves-south/Hunter.cfg:27
-#: War_of_Legends/units/elves-south/Marksman.cfg:22
-#: War_of_Legends/units/elves-south/Protector.cfg:41
-#: War_of_Legends/units/elves-south/Sharpshooter.cfg:23
-#: War_of_Legends/units/elves-south/Warrior.cfg:23
-#: War_of_Legends/units/elves-wood/Noble.cfg:26
+#: War_of_Legends/units/elves-desert/Archer.cfg:23
+#: War_of_Legends/units/elves-desert/Champion.cfg:25
+#: War_of_Legends/units/elves-desert/Guard.cfg:40
+#: War_of_Legends/units/elves-desert/Hunter.cfg:27
+#: War_of_Legends/units/elves-desert/Marksman.cfg:22
+#: War_of_Legends/units/elves-desert/Protector.cfg:41
+#: War_of_Legends/units/elves-desert/Sharpshooter.cfg:23
+#: War_of_Legends/units/elves-desert/Warrior.cfg:23
+#: War_of_Legends/units/elves-wood/Noble.cfg:28
+#: War_of_Legends/units/elves-wood/Prowler.cfg:43
+#: War_of_Legends/units/elves-wood/Trapper.cfg:39
 #: War_of_Legends/units/gnolls/Deadeye.cfg:27
 #: War_of_Legends/units/gnolls/Marksman.cfg:26
 #: War_of_Legends/units/human-campaigns/Horse_Archer_Knight.cfg:31
@@ -1823,7 +1825,7 @@ msgstr ""
 #: War_of_Legends/units/human-campaigns/Loyalist_Warmaster.cfg:55
 #: War_of_Legends/units/human-campaigns/Loyalist_Warrior.cfg:48
 #: War_of_Legends/units/human-legion/Dark_Cavalier.cfg:23
-#: War_of_Legends/units/human-legion/Dark_Commander.cfg:36
+#: War_of_Legends/units/human-legion/Dark_Commander.cfg:38
 #: War_of_Legends/units/human-legion/Dark_Fighter.cfg:37
 #: War_of_Legends/units/human-legion/Dark_Knight.cfg:22
 #: War_of_Legends/units/human-legion/Dark_Pillager.cfg:23
@@ -1833,13 +1835,13 @@ msgstr ""
 #: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:29
 #: War_of_Legends/units/nagas/Naga_Hunter.cfg:41
 #: War_of_Legends/units/nagas/Naga_Marksman.cfg:28
-#: War_of_Legends/units/undead/Skele_Death_Squire.cfg:33
+#: War_of_Legends/units/undead/Skele_Death_Squire.cfg:35
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: War_of_Legends/units/elves-south/Archer.cfg:32
-#: War_of_Legends/units/elves-wood/Wayfarer.cfg:58
+#: War_of_Legends/units/elves-desert/Archer.cfg:32
+#: War_of_Legends/units/elves-wood/Wayfarer.cfg:59
 #: War_of_Legends/units/gnolls/Deadeye.cfg:36
 #: War_of_Legends/units/gnolls/Marksman.cfg:35
 #: War_of_Legends/units/gnolls/Regular.cfg:35
@@ -1858,17 +1860,17 @@ msgid "bow"
 msgstr ""
 
 #. [female]
-#: War_of_Legends/units/elves-south/Archer.cfg:144
+#: War_of_Legends/units/elves-desert/Archer.cfg:144
 msgid "female^Archer"
 msgstr ""
 
 #. [unit_type]: id=South Elven Champion, race=southern elf
-#: War_of_Legends/units/elves-south/Champion.cfg:4
+#: War_of_Legends/units/elves-desert/Champion.cfg:4
 msgid "Champion"
 msgstr ""
 
 #. [unit_type]: id=South Elven Champion, race=southern elf
-#: War_of_Legends/units/elves-south/Champion.cfg:21
+#: War_of_Legends/units/elves-desert/Champion.cfg:21
 msgid ""
 "The Champions are avoided by most foes due to their superb swordsmanship. "
 "Capable of inflicting grievous wounds, the Champions fight best at twilight "
@@ -1876,22 +1878,24 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: War_of_Legends/units/elves-south/Champion.cfg:34
-#: War_of_Legends/units/elves-south/Hunter.cfg:36
-#: War_of_Legends/units/elves-south/Warrior.cfg:32
-#: War_of_Legends/units/elves-wood/Wayfarer.cfg:47
+#: War_of_Legends/units/elves-desert/Champion.cfg:34
+#: War_of_Legends/units/elves-desert/Hunter.cfg:36
+#: War_of_Legends/units/elves-desert/Warrior.cfg:32
+#: War_of_Legends/units/elves-wood/Prowler.cfg:52
+#: War_of_Legends/units/elves-wood/Trapper.cfg:48
+#: War_of_Legends/units/elves-wood/Wayfarer.cfg:48
 msgid "bolas"
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
 #. [unit_type]: id=South Elven Guard, race=southern elf
-#: War_of_Legends/units/elves-south/Guard.cfg:5
+#: War_of_Legends/units/elves-desert/Guard.cfg:5
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Guard.cfg:5
 msgid "Guard"
 msgstr ""
 
 #. [unit_type]: id=South Elven Guard, race=southern elf
-#: War_of_Legends/units/elves-south/Guard.cfg:36
+#: War_of_Legends/units/elves-desert/Guard.cfg:36
 msgid ""
 "Guards form the main defense forces of the Southern Elves. Equipped with a "
 "sword, shield, and reinforced leather armor, these elves are a challenge to "
@@ -1899,12 +1903,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=South Elven Hunter, race=southern elf
-#: War_of_Legends/units/elves-south/Hunter.cfg:5
+#: War_of_Legends/units/elves-desert/Hunter.cfg:5
 msgid "Hunter"
 msgstr ""
 
 #. [unit_type]: id=South Elven Hunter, race=southern elf
-#: War_of_Legends/units/elves-south/Hunter.cfg:21
+#: War_of_Legends/units/elves-desert/Hunter.cfg:21
 msgid ""
 "Hunters form the main melee forces of the South Elven military. Armed with "
 "swords and bolas, these fighters are more than a match for anything, if they "
@@ -1913,13 +1917,13 @@ msgstr ""
 
 #. [unit_type]: id=Gnoll Marksman, race=gnoll
 #. [unit_type]: id=South Elven Marksman, race=southern elf
-#: War_of_Legends/units/elves-south/Marksman.cfg:4
+#: War_of_Legends/units/elves-desert/Marksman.cfg:4
 #: War_of_Legends/units/gnolls/Marksman.cfg:5
 msgid "Marksman"
 msgstr ""
 
 #. [unit_type]: id=South Elven Marksman, race=southern elf
-#: War_of_Legends/units/elves-south/Marksman.cfg:18
+#: War_of_Legends/units/elves-desert/Marksman.cfg:18
 msgid ""
 "South Elven Marksman are expert in use of the bow. Though their bows and "
 "arrows are not as fine as those of their ancestors, they continue to hone "
@@ -1928,23 +1932,23 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: War_of_Legends/units/elves-south/Marksman.cfg:31
-#: War_of_Legends/units/elves-south/Sharpshooter.cfg:32
+#: War_of_Legends/units/elves-desert/Marksman.cfg:31
+#: War_of_Legends/units/elves-desert/Sharpshooter.cfg:32
 msgid "longbow"
 msgstr ""
 
 #. [female]
-#: War_of_Legends/units/elves-south/Marksman.cfg:168
+#: War_of_Legends/units/elves-desert/Marksman.cfg:168
 msgid "female^Marksman"
 msgstr ""
 
 #. [unit_type]: id=Moon Cleric, race=southern elf
-#: War_of_Legends/units/elves-south/Moon_Cleric.cfg:5
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:5
 msgid "female^Moon Cleric"
 msgstr ""
 
 #. [unit_type]: id=Moon Cleric, race=southern elf
-#: War_of_Legends/units/elves-south/Moon_Cleric.cfg:23
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:23
 msgid ""
 "As a mystic matures, she is offered a choice - to follow the Sun or the "
 "Moon. The followers of the moon have access to ice magic and the ability to "
@@ -1953,8 +1957,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: War_of_Legends/units/elves-south/Moon_Cleric.cfg:27
-#: War_of_Legends/units/elves-south/Moon_Enchantress.cfg:28
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:27
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:28
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:32
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Slayer.cfg:27
 #: War_of_Legends/units/human-campaigns/Loyalist_Infantry_Commander.cfg:32
@@ -1965,49 +1969,49 @@ msgid "glaive"
 msgstr ""
 
 #. [attack]: type=arcane
-#: War_of_Legends/units/elves-south/Moon_Cleric.cfg:36
-#: War_of_Legends/units/elves-south/Moon_Enchantress.cfg:37
-#: War_of_Legends/units/elves-south/Mystic.cfg:36
-#: War_of_Legends/units/elves-south/Sun_Priestess.cfg:36
-#: War_of_Legends/units/elves-south/Sun_Sorceress.cfg:37
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:36
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:37
+#: War_of_Legends/units/elves-desert/Mystic.cfg:36
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:36
+#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:37
 #: War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:103
 msgid "aura blast"
 msgstr ""
 
 #. [attack]: type=cold
-#: War_of_Legends/units/elves-south/Moon_Cleric.cfg:47
-#: War_of_Legends/units/elves-south/Moon_Enchantress.cfg:48
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:47
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:48
 msgid "iceball"
 msgstr ""
 
 #. [unit_type]: id=Moon Enchantress, race=southern elf
-#: War_of_Legends/units/elves-south/Moon_Enchantress.cfg:5
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:5
 msgid "female^Moon Enchantress"
 msgstr ""
 
 #. [unit_type]: id=Moon Enchantress, race=southern elf
-#: War_of_Legends/units/elves-south/Moon_Enchantress.cfg:24
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:24
 msgid ""
 "With wings as green as jade, and the power to freeze the very life out of "
 "enemies, the Enchantresses are as beautiful as they are deadly."
 msgstr ""
 
 #. [unit_type]: id=South Elven Mystic, race=southern elf
-#: War_of_Legends/units/elves-south/Mystic.cfg:5
+#: War_of_Legends/units/elves-desert/Mystic.cfg:5
 msgid "female^Mystic"
 msgstr ""
 
 #. [unit_type]: id=South Elven Mystic, race=southern elf
-#: War_of_Legends/units/elves-south/Mystic.cfg:22
+#: War_of_Legends/units/elves-desert/Mystic.cfg:22
 msgid ""
 "South Elven Mystics are trained in the arts of healing and the use of their "
 "aura to hinder enemies."
 msgstr ""
 
 #. [attack]: type=impact
-#: War_of_Legends/units/elves-south/Mystic.cfg:26
-#: War_of_Legends/units/elves-south/Sun_Priestess.cfg:25
-#: War_of_Legends/units/elves-south/Sun_Sorceress.cfg:26
+#: War_of_Legends/units/elves-desert/Mystic.cfg:26
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:25
+#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:26
 #: War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:94
 #: War_of_Legends/units/human-mages/Mage_Cleric.cfg:32
 #: War_of_Legends/units/human-mages/Mage_Forest.cfg:51
@@ -2035,12 +2039,12 @@ msgid "staff"
 msgstr ""
 
 #. [unit_type]: id=South Elven Protector, race=southern elf
-#: War_of_Legends/units/elves-south/Protector.cfg:5
+#: War_of_Legends/units/elves-desert/Protector.cfg:5
 msgid "Protector"
 msgstr ""
 
 #. [unit_type]: id=South Elven Protector, race=southern elf
-#: War_of_Legends/units/elves-south/Protector.cfg:37
+#: War_of_Legends/units/elves-desert/Protector.cfg:37
 msgid ""
 "Elite defenders among the guards are promoted to Protectors. Heavily armored "
 "in leather and welding a shield made from the rarest of metals, the "
@@ -2048,12 +2052,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=South Elven Sharpshooter, race=southern elf
-#: War_of_Legends/units/elves-south/Sharpshooter.cfg:4
+#: War_of_Legends/units/elves-desert/Sharpshooter.cfg:4
 msgid "Sharpshooter"
 msgstr ""
 
 #. [unit_type]: id=South Elven Sharpshooter, race=southern elf
-#: War_of_Legends/units/elves-south/Sharpshooter.cfg:19
+#: War_of_Legends/units/elves-desert/Sharpshooter.cfg:19
 msgid ""
 "The most elite archers among the southern elves, Sharpshooters use the best "
 "bows and arrows available, which makes them just as deadly as their "
@@ -2062,25 +2066,25 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: War_of_Legends/units/elves-south/Sharpshooter.cfg:142
+#: War_of_Legends/units/elves-desert/Sharpshooter.cfg:142
 msgid "female^Sharpshooter"
 msgstr ""
 
 #. [unit_type]: id=Sun Priestess, race=southern elf
-#: War_of_Legends/units/elves-south/Sun_Priestess.cfg:4
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:4
 msgid "female^Sun Priestess"
 msgstr ""
 
 #. [unit_type]: id=Sun Priestess, race=southern elf
-#: War_of_Legends/units/elves-south/Sun_Priestess.cfg:21
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:21
 msgid ""
 "The followers of the Sun have access to the dreaded fire magic. Capable of "
 "shooting fireballs, the priestess is a worthy opponent."
 msgstr ""
 
 #. [attack]: type=fire
-#: War_of_Legends/units/elves-south/Sun_Priestess.cfg:47
-#: War_of_Legends/units/elves-south/Sun_Sorceress.cfg:48
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:47
+#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:48
 #: War_of_Legends/units/human-outlaws/Sorcerer.cfg:110
 #: War_of_Legends/units/human-outlaws/Wizard.cfg:108
 #: War_of_Legends/units/minotaurs/Elder.cfg:51
@@ -2091,12 +2095,12 @@ msgid "fireball"
 msgstr ""
 
 #. [unit_type]: id=Sun Sorceress, race=southern elf
-#: War_of_Legends/units/elves-south/Sun_Sorceress.cfg:4
+#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:4
 msgid "female^Sun Sorceress"
 msgstr ""
 
 #. [unit_type]: id=Sun Sorceress, race=southern elf
-#: War_of_Legends/units/elves-south/Sun_Sorceress.cfg:22
+#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:22
 msgid ""
 "The followers of the Sun have access to the dreaded fire magic. Possessing "
 "the strongest fire spells known, the sorceress can inflict heavy damage to "
@@ -2105,13 +2109,13 @@ msgstr ""
 
 #. [unit_type]: id=South Elven Warrior, race=southern elf
 #. [unit_type]: id=Warrior, race=human
-#: War_of_Legends/units/elves-south/Warrior.cfg:4
+#: War_of_Legends/units/elves-desert/Warrior.cfg:4
 #: War_of_Legends/units/human-campaigns/Loyalist_Warrior.cfg:4
 msgid "Warrior"
 msgstr ""
 
 #. [unit_type]: id=South Elven Warrior, race=southern elf
-#: War_of_Legends/units/elves-south/Warrior.cfg:19
+#: War_of_Legends/units/elves-desert/Warrior.cfg:19
 msgid ""
 "Warriors, having mastered the art of dual sword combat, are deadly foes. "
 "They prefer swordplay but use the bolas to tangle archers and then finish "
@@ -2184,7 +2188,7 @@ msgid "ethereal storm"
 msgstr ""
 
 #. [unit_type]: id=Elvish Hunter, race=elf
-#: War_of_Legends/units/elves-wood/Hunter.cfg:5
+#: War_of_Legends/units/elves-wood/Hunter.cfg:6
 msgid "Elvish Hunter"
 msgstr ""
 
@@ -2214,12 +2218,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Elvish Noble, race=elf
-#: War_of_Legends/units/elves-wood/Noble.cfg:4
+#: War_of_Legends/units/elves-wood/Noble.cfg:6
 msgid "Elvish Noble"
 msgstr ""
 
 #. [unit_type]: id=Elvish Noble, race=elf
-#: War_of_Legends/units/elves-wood/Noble.cfg:18
+#: War_of_Legends/units/elves-wood/Noble.cfg:20
 msgid ""
 "While humans must devote considerable time and concentration to learning the "
 "magical arts, those elves with the most magical aptitude are often those "
@@ -2237,39 +2241,81 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: War_of_Legends/units/elves-wood/Noble.cfg:35
+#: War_of_Legends/units/elves-wood/Noble.cfg:37
 msgid "faerie fire"
 msgstr ""
 
+#. [unit_type]: id=Elvish Prowler, race=elf
+#: War_of_Legends/units/elves-wood/Prowler.cfg:6
+msgid "Elvish Prowler"
+msgstr ""
+
+#. [unit_type]: id=Elvish Prowler, race=elf
+#: War_of_Legends/units/elves-wood/Prowler.cfg:36
+msgid ""
+"The best hunters learn to take advantage of their surroundings to attack "
+"unwary enemies by surprise. Camouflage is the most frightening ability of "
+"these masters of elusive strategies, as an unwary foe could be struck down "
+"by them with ease. It has been recorded that entire raiding parties have "
+"been decimated by Prowlers in a matter of a few minutes, or even seconds.\n"
+"\n"
+"This is one of the various reasons that the wood elves are respected and "
+"feared by most races."
+msgstr ""
+
+#. [female]
+#: War_of_Legends/units/elves-wood/Prowler.cfg:132
+msgid "female^Elvish Prowler"
+msgstr ""
+
+#. [unit_type]: id=Elvish Trapper, race=elf
+#: War_of_Legends/units/elves-wood/Trapper.cfg:6
+msgid "Elvish Trapper"
+msgstr ""
+
+#. [unit_type]: id=Elvish Trapper, race=elf
+#: War_of_Legends/units/elves-wood/Trapper.cfg:34
+msgid ""
+"Elvish Trappers have increased their expertise in patrolling and defending "
+"their bases, having learned the value of confusing their enemies and "
+"backstabbing them. These skirmishers have become more skilled with the short "
+"sword, having less need of using their bolas to beat their opponents."
+msgstr ""
+
+#. [female]
+#: War_of_Legends/units/elves-wood/Trapper.cfg:128
+msgid "female^Elvish Trapper"
+msgstr ""
+
 #. [unit_type]: id=Elvish Wayfarer, race=elf
-#: War_of_Legends/units/elves-wood/Wayfarer.cfg:5
+#: War_of_Legends/units/elves-wood/Wayfarer.cfg:6
 msgid "Elvish Wayfarer"
 msgstr ""
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
-#: War_of_Legends/units/elves-wood/Wayfarer.cfg:33
+#: War_of_Legends/units/elves-wood/Wayfarer.cfg:34
 msgid ""
 "The Wayfarers have left their quiet forest lives in favor of exploring the "
 "world. They are deadly foes in combat, as they have learned the combat "
 "styles of different races across the world."
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: War_of_Legends/units/faeries.cfg:5
 msgid "race^Faerie"
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: War_of_Legends/units/faeries.cfg:6
 msgid "race+male^Faerie"
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: War_of_Legends/units/faeries.cfg:7
 msgid "race^Fairies"
 msgstr ""
 
-#. [race]: id=fairy
+#. [race]: id=faerie
 #: War_of_Legends/units/faeries.cfg:8
 msgid ""
 "Great, dark forests and caves are excellent places for mysterious creatures "
@@ -2281,12 +2327,12 @@ msgid ""
 "and respect."
 msgstr ""
 
-#. [unit_type]: id=Faerie Dryad, race=fairy
+#. [unit_type]: id=Faerie Dryad, race=faerie
 #: War_of_Legends/units/faeries/Faerie_Dryad.cfg:5
 msgid "Dryad"
 msgstr ""
 
-#. [unit_type]: id=Faerie Dryad, race=fairy
+#. [unit_type]: id=Faerie Dryad, race=faerie
 #: War_of_Legends/units/faeries/Faerie_Dryad.cfg:34
 msgid ""
 "The beautiful nymphs that secretly live in forests have been named Dryads, "
@@ -2312,12 +2358,12 @@ msgstr ""
 msgid "mystic fire"
 msgstr ""
 
-#. [unit_type]: id=Faerie Spirit, race=fairy
+#. [unit_type]: id=Faerie Spirit, race=faerie
 #: War_of_Legends/units/faeries/Faerie_Spirit.cfg:5
 msgid "Forest Spirit"
 msgstr ""
 
-#. [unit_type]: id=Faerie Spirit, race=fairy
+#. [unit_type]: id=Faerie Spirit, race=faerie
 #: War_of_Legends/units/faeries/Faerie_Spirit.cfg:39
 msgid ""
 "Faeries may eventually become one with the fire element, turning into "
@@ -2327,12 +2373,12 @@ msgid ""
 "for elves."
 msgstr ""
 
-#. [unit_type]: id=Faerie Sprite, race=fairy
+#. [unit_type]: id=Faerie Sprite, race=faerie
 #: War_of_Legends/units/faeries/Faerie_Sprite.cfg:5
 msgid "Sprite"
 msgstr ""
 
-#. [unit_type]: id=Faerie Sprite, race=fairy
+#. [unit_type]: id=Faerie Sprite, race=faerie
 #: War_of_Legends/units/faeries/Faerie_Sprite.cfg:24
 msgid ""
 "Mischievous in nature, these fiery fairies are pranksters at heart, with a "
@@ -2342,12 +2388,12 @@ msgid ""
 "whimsical personality make them fast friends to the elves."
 msgstr ""
 
-#. [unit_type]: id=Fire Faerie, race=fairy
+#. [unit_type]: id=Fire Faerie, race=faerie
 #: War_of_Legends/units/faeries/Fire_Faerie.cfg:5
 msgid "Fire Faerie"
 msgstr ""
 
-#. [unit_type]: id=Fire Faerie, race=fairy
+#. [unit_type]: id=Fire Faerie, race=faerie
 #: War_of_Legends/units/faeries/Fire_Faerie.cfg:23
 msgid ""
 "Faeries are rarely seen on a battlefield, as they are usually pacific "
@@ -2539,7 +2585,7 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Ancient_Banner.cfg:27
 msgid ""
-"Some great Aragwaithi officiers bring on the battlefield the flags of their "
+"Some great Aragwaithi officers bring on the battlefield the flags of their "
 "ancients. These Ancient Banners are skilled and deadly veterans, who have "
 "leaded troops in the cruelest battles of the Aragwaithi."
 msgstr ""
@@ -3030,10 +3076,10 @@ msgstr ""
 #. [attack]: type=pierce
 #: War_of_Legends/units/human-legion/Dark_Arbalestier.cfg:34
 #: War_of_Legends/units/human-legion/Dark_Arbalestier.cfg:43
-#: War_of_Legends/units/human-legion/Dark_Commander.cfg:45
+#: War_of_Legends/units/human-legion/Dark_Commander.cfg:47
 #: War_of_Legends/units/human-legion/Dark_Crossbowman.cfg:33
 #: War_of_Legends/units/human-legion/Dark_Crossbowman.cfg:42
-#: War_of_Legends/units/human-legion/Dark_General.cfg:47
+#: War_of_Legends/units/human-legion/Dark_General.cfg:49
 msgid "crossbow"
 msgstr ""
 
@@ -3106,18 +3152,18 @@ msgstr ""
 
 #. [attack]: type=blade
 #: War_of_Legends/units/human-legion/Dark_Champion.cfg:27
-#: War_of_Legends/units/human-legion/Dark_General.cfg:38
+#: War_of_Legends/units/human-legion/Dark_General.cfg:40
 #: War_of_Legends/units/human-legion/Dark_Longswordsman.cfg:25
 msgid "longsword"
 msgstr ""
 
 #. [unit_type]: id=Dark Commander, race=human
-#: War_of_Legends/units/human-legion/Dark_Commander.cfg:4
+#: War_of_Legends/units/human-legion/Dark_Commander.cfg:6
 msgid "Dark Commander"
 msgstr ""
 
 #. [unit_type]: id=Dark Commander, race=human
-#: War_of_Legends/units/human-legion/Dark_Commander.cfg:27
+#: War_of_Legends/units/human-legion/Dark_Commander.cfg:29
 msgid "Commanders are leaders of the Legion Vanguards."
 msgstr ""
 
@@ -3215,12 +3261,12 @@ msgid "chakram"
 msgstr ""
 
 #. [unit_type]: id=Dark General, race=human
-#: War_of_Legends/units/human-legion/Dark_General.cfg:4
+#: War_of_Legends/units/human-legion/Dark_General.cfg:6
 msgid "Dark General"
 msgstr ""
 
 #. [unit_type]: id=Dark General, race=human
-#: War_of_Legends/units/human-legion/Dark_General.cfg:28
+#: War_of_Legends/units/human-legion/Dark_General.cfg:30
 msgid "Dark Generals are the fearsome leaders of The Dark Legion."
 msgstr ""
 
@@ -3446,10 +3492,9 @@ msgstr ""
 msgid "divine sword"
 msgstr ""
 
-#. [attack]: type=fire
+#. [attack]: type=arcane
 #: War_of_Legends/units/human-loyalists/Loyalist_Chevalier.cfg:38
 #: War_of_Legends/units/human-loyalists/Loyalist_Crusader.cfg:41
-#: War_of_Legends/units/human-mages/Mage_Prophetess_of_Light.cfg:56
 msgid "divine lightning"
 msgstr ""
 
@@ -3585,6 +3630,18 @@ msgid ""
 "almost any foe."
 msgstr ""
 
+#. [attack]: type=fire
+#: War_of_Legends/units/human-mages/Mage_Prophetess_of_Light.cfg:56
+#: War_of_Legends/units/human-mages/Mage_Storm.cfg:50
+#: War_of_Legends/units/human-mages/Mage_Tempest.cfg:48
+#: War_of_Legends/units/human-mages/Mage_Thunder.cfg:48
+#: War_of_Legends/units/windsong/Pathfinder.cfg:49
+#: War_of_Legends/units/windsong/Seeker.cfg:38
+#: War_of_Legends/units/windsong/Skyrunner.cfg:44
+#: War_of_Legends/units/windsong/Stormbringer.cfg:45
+msgid "lightning"
+msgstr ""
+
 #. [unit_type]: id=Mage of Storms, race=human
 #: War_of_Legends/units/human-mages/Mage_Storm.cfg:4
 msgid "Mage of Storms"
@@ -3604,17 +3661,6 @@ msgid ""
 "could make a lightning shower occur anywhere with just a wave of a hand and "
 "are more physically stronger than their other counterparts. One other power "
 "of these mages is the ability to concentrate the wind on their enemies."
-msgstr ""
-
-#. [attack]: type=fire
-#: War_of_Legends/units/human-mages/Mage_Storm.cfg:50
-#: War_of_Legends/units/human-mages/Mage_Tempest.cfg:48
-#: War_of_Legends/units/human-mages/Mage_Thunder.cfg:48
-#: War_of_Legends/units/windsong/Pathfinder.cfg:49
-#: War_of_Legends/units/windsong/Seeker.cfg:38
-#: War_of_Legends/units/windsong/Skyrunner.cfg:44
-#: War_of_Legends/units/windsong/Stormbringer.cfg:45
-msgid "lightning"
 msgstr ""
 
 #. [attack]: type=impact
@@ -3682,7 +3728,7 @@ msgstr ""
 #: War_of_Legends/units/human-outlaws/Huntress.cfg:99
 #: War_of_Legends/units/human-outlaws/Prowler.cfg:100
 #: War_of_Legends/units/human-outlaws/Tracker.cfg:99
-#: War_of_Legends/units/trolls/Boulderlobber.cfg:44
+#: War_of_Legends/units/trolls/Boulderlobber.cfg:41
 msgid "sling"
 msgstr ""
 
@@ -4129,12 +4175,12 @@ msgid "a fully-healed Dust Devil"
 msgstr ""
 
 #. [unit_type]: id=Great Ogre, race=ogre
-#: War_of_Legends/units/monsters/Great_Ogre.cfg:4
+#: War_of_Legends/units/monsters/Great_Ogre.cfg:6
 msgid "Great Ogre"
 msgstr ""
 
 #. [unit_type]: id=Great Ogre, race=ogre
-#: War_of_Legends/units/monsters/Great_Ogre.cfg:28
+#: War_of_Legends/units/monsters/Great_Ogre.cfg:27
 msgid ""
 "Great Ogres are larger than the ordinary ogre, possess more strength and "
 "stand taller than an adult Wose. They live in the wilderness and are "
@@ -4142,7 +4188,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: War_of_Legends/units/monsters/Great_Ogre.cfg:33
+#: War_of_Legends/units/monsters/Great_Ogre.cfg:32
 msgid "cleaver"
 msgstr ""
 
@@ -4205,12 +4251,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Young Gryphon, race=gryphon
-#: War_of_Legends/units/monsters/Young_Gryphon.cfg:4
+#: War_of_Legends/units/monsters/Young_Gryphon.cfg:6
 msgid "Young Gryphon"
 msgstr ""
 
 #. [unit_type]: id=Young Gryphon, race=gryphon
-#: War_of_Legends/units/monsters/Young_Gryphon.cfg:18
+#: War_of_Legends/units/monsters/Young_Gryphon.cfg:20
 msgid ""
 "Gryphons, when young, are covered with white and gray feathers. As soon as "
 "they can fly, they become able to defend their nests and to attack "
@@ -4392,12 +4438,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
-#: War_of_Legends/units/orcs/Nightblade.cfg:5
+#: War_of_Legends/units/orcs/Nightblade.cfg:6
 msgid "Orcish Nightblade"
 msgstr ""
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
-#: War_of_Legends/units/orcs/Nightblade.cfg:30
+#: War_of_Legends/units/orcs/Nightblade.cfg:28
 msgid ""
 "Slayers who reach the rank of the Nightblade are truly the best assassins "
 "around. Trained in ancient techniques of hand-to-hand combat, these "
@@ -4406,12 +4452,12 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: War_of_Legends/units/orcs/Nightblade.cfg:46
+#: War_of_Legends/units/orcs/Nightblade.cfg:44
 msgid "blade"
 msgstr ""
 
 #. [attack]: type=blade
-#: War_of_Legends/units/orcs/Nightblade.cfg:64
+#: War_of_Legends/units/orcs/Nightblade.cfg:62
 msgid "throwing knives"
 msgstr ""
 
@@ -4461,7 +4507,7 @@ msgid "Troll Boulderlobber"
 msgstr ""
 
 #. [unit_type]: id=Troll Boulderlobber, race=troll
-#: War_of_Legends/units/trolls/Boulderlobber.cfg:28
+#: War_of_Legends/units/trolls/Boulderlobber.cfg:25
 msgid ""
 "Some trolls show an uncommon ability in throwing boulders. These "
 "Boulderlobbers throw enormous rocks, that common trolls could not even lift "
@@ -4469,7 +4515,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: War_of_Legends/units/trolls/Boulderlobber.cfg:35
+#: War_of_Legends/units/trolls/Boulderlobber.cfg:32
 #: War_of_Legends/units/trolls/Mystic.cfg:32
 msgid "fist"
 msgstr ""
@@ -4618,7 +4664,7 @@ msgid "Death Baron"
 msgstr ""
 
 #. [unit_type]: id=Death Baron, race=undead
-#: War_of_Legends/units/undead/Skele_Death_Baron.cfg:42
+#: War_of_Legends/units/undead/Skele_Death_Baron.cfg:41
 msgid ""
 "Sometimes the mightiest warriors and generals, cursed with hate and angst, "
 "come back to this world as Death Knights. Death Barons serve them whilst "
@@ -4628,12 +4674,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Death Squire, race=undead
-#: War_of_Legends/units/undead/Skele_Death_Squire.cfg:4
+#: War_of_Legends/units/undead/Skele_Death_Squire.cfg:6
 msgid "Death Squire"
 msgstr ""
 
 #. [unit_type]: id=Death Squire, race=undead
-#: War_of_Legends/units/undead/Skele_Death_Squire.cfg:28
+#: War_of_Legends/units/undead/Skele_Death_Squire.cfg:30
 msgid ""
 "Sometimes the mightiest warriors and generals, cursed with hate and angst, "
 "came back to this world as Death Knights. Death Squires serve them whilst "
@@ -5088,33 +5134,57 @@ msgstr ""
 msgid "female^Twilight Walker"
 msgstr ""
 
+#: War_of_Legends/units/windsong.cfg:4
+msgid ""
+"Ana,Arala,Ala,Asare,Ashara,Athesa,Ama,Averana,Atharuna,Amoshe,Ahurena,Alera,"
+"Ave,Arila,Ai,Atha,Ashe,Aru,Amasela,Aoshe,Amelara,Alura,Aryana,Eva,Elena,"
+"Esure,Ena,Ethe,Eme,Eira,Ela,Efara,Evina,Eshe,Ethara,Esaora,Eumane,Ehuva,Ere,"
+"Emi,Eshi,Enemura,Sela,Sara,Sula,Salura,Sana,Semisha,Soshire,Suvana,Sife,"
+"Saletha,Sitheri,Surei,Somile,Sahama,Salarema,Sea,Severa,Suthe,Sithame,Ola,"
+"Omana,Osheura,Olena,Onethe,Ovenatha,Fira,Fesha,Fena,Felai,Foma,Furava,"
+"Fusatha,Fala,Famia,Fesea,Fenoma,Fihama,Fama,Fia,Famori,Irena,Ima,Ishama,"
+"Iolara,Imaha,Inithe,Imana,Isora,Ilameshe,Ila,Ishe,Ithoe,Ivie,Imia,Iralura,"
+"Isanare,Ihama,Iri,Ithania,Isavora,Ila,Mana,Mia,Mara,Mura,Myra,Masohe,Mushena,"
+"Malesa,Maisha,Minaru,Minare,Monia,Mesere,Mulasha,Mathe,Minashema,Mesa,Mirana,"
+"Mifa,Mivareshana,Une,Uara,Ushala,Uhima,Uthe,Unaluthe,Thesa,Thema,Thirala,"
+"Thoshe,Thofara,Thami,Thise,Therama,Thila,Thama,Therasa,Thurana,Thalia,"
+"Therana,Thomena,Thosa,Thene,Thime,Thamele,Theshia,Nai,Nama,Norale,Nethala,"
+"Nisha,Nemene,Nefe,Navaru,Nula,Nusina,Naria,Nosua,Naomi,Nahasa,Nila,Nuralena,"
+"Nema,Lisa,Lara,Loe,Lasama,Lemeshe,Lathia,Leshara,Laisa,Line,Lenesa,Loma,Lura,"
+"Lesamia,Lehara,Lana,Lashe,Larena,Lotha,Limia,Lania,Larie,Lafana,Lerava,Love,"
+"Rama,Runa,Rashe,Ria,Rovena,Riva,Rufa,Rithia,Raina,Rava,Rashama,Rei,Rosha,"
+"Vena,Via,Velara,Veruna,Visha,Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,"
+"Heshia,Hia,Holaria,Hasha,Hena,Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,"
+"Shena,Shalia,Shasi,Shava,Shura"
+msgstr ""
+
 #. [race]: id=abstraction
-#: War_of_Legends/units/windsong.cfg:5
+#: War_of_Legends/units/windsong.cfg:9
 msgid "race^Abstraction"
 msgstr ""
 
 #. [race]: id=abstraction
-#: War_of_Legends/units/windsong.cfg:6
+#: War_of_Legends/units/windsong.cfg:10
 msgid "race+female^Abstraction"
 msgstr ""
 
 #. [race]: id=abstraction
-#: War_of_Legends/units/windsong.cfg:7
+#: War_of_Legends/units/windsong.cfg:11
 msgid "race^Abstractions"
 msgstr ""
 
 #. [race]: id=windsong
-#: War_of_Legends/units/windsong.cfg:15
+#: War_of_Legends/units/windsong.cfg:19
 msgid "race^Windsong Human"
 msgstr ""
 
 #. [race]: id=windsong
-#: War_of_Legends/units/windsong.cfg:16
+#: War_of_Legends/units/windsong.cfg:20
 msgid "race^Windsong Humans"
 msgstr ""
 
 #. [race]: id=windsong
-#: War_of_Legends/units/windsong.cfg:21
+#: War_of_Legends/units/windsong.cfg:25
 msgid ""
 "The Windsong are a mysterious people, consisting completely of abducted "
 "female humans. Their numbers are few, and their goals and motives obscure. "
@@ -5135,7 +5205,7 @@ msgstr ""
 #: War_of_Legends/units/windsong/Arbiter.cfg:26
 msgid ""
 "The head mistress among the Savants is known as the Arbiter. Possessing vast "
-"knowledge on the Great Library and the Cipher, these maidens also weld "
+"knowledge on the Great Library and the Cipher, these maidens also wield "
 "scythes for protection from close range."
 msgstr ""
 
@@ -5353,9 +5423,9 @@ msgid ""
 "not until the deepest vaults opened and they marched forth to do battle that "
 "it became clear that the Oathkeeper title had not only survived, but that "
 "the mantle had been passed down from generation to generation through the "
-"millenia. Those few who are offered membership are inevitably among the most "
-"skilled warriors ever to walk the world, and capable of holding back entire "
-"armies singlehandedly."
+"millennia. Those few who are offered membership are inevitably among the "
+"most skilled warriors ever to walk the world, and capable of holding back "
+"entire armies singlehandedly."
 msgstr ""
 
 #. [unit_type]: id=Pathfinder, race=windsong
@@ -5424,10 +5494,10 @@ msgstr ""
 #. [unit_type]: id=Rune Forger, race=windsong
 #: War_of_Legends/units/windsong/Rune_Forger.cfg:34
 msgid ""
-"Instead becoming Arbiters, some savants may chose to master all forms of the "
-"Cipher. The Rune Forgers are experienced in all forms of the Cipher and they "
-"can use this knowledge to inflict catastrophic damage to the enemies who "
-"were foolish enough to cross paths with the Windsong."
+"Instead of becoming Arbiters, some savants may chose to master all forms of "
+"the Cipher. The Rune Forgers are experienced in all forms of the Cipher and "
+"they can use this knowledge to inflict catastrophic damage to the enemies "
+"who were foolish enough to cross paths with the Windsong."
 msgstr ""
 
 #. [attack]: type=blade
@@ -5538,11 +5608,11 @@ msgstr ""
 #. [unit_type]: id=Warmonger, race=windsong
 #: War_of_Legends/units/windsong/Warmonger.cfg:39
 msgid ""
-"Stunningly powerful warriors, Warmongers epitomize the warlike path of the "
+"Stunningly powerful warriors, Warmongers epitomise the warlike path of the "
 "Heretic. Their command of the forbidden flame cipher, as well as the "
-"bloodthirsty furor they unleash upon their opponents, make them the terror "
-"of their allies as much as of their enemies. Yet even the peaceful Windsong "
-"realize that such power must be put to use, and they are often selected to "
+"bloodthirsty fury they unleash upon their opponents, make them the terror of "
+"their allies as much as of their enemies. Yet even the peaceful Windsong "
+"realise that such power must be put to use, and they are often selected to "
 "lead groups of their fellow Heretics into battle."
 msgstr ""
 
