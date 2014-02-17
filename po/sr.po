@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: War_of_Legends-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-30 19:18+0100\n"
+"POT-Creation-Date: 2014-02-17 02:56+0100\n"
 "PO-Revision-Date: 2012-10-13 04:24+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -30,9 +30,24 @@ msgstr ""
 msgid "Core Legends Era"
 msgstr ""
 
+#. [era]: id=core_legends
+#: War_of_Legends/eras/Core_Legends.cfg:10
+msgid ""
+"An era consisting of six factions, which were part of the <i>Great Legend "
+"Era</i>. Mostly balanced."
+msgstr ""
+
 #. [era]: id=empowered_legends
 #: War_of_Legends/eras/Empowered_Legends.cfg:7
 msgid "Empowered Legends Era"
+msgstr ""
+
+#. [era]: id=empowered_legends
+#: War_of_Legends/eras/Empowered_Legends.cfg:11
+msgid ""
+"An era with higher level units: level three leaders, with level one and two "
+"units available for recruitment. Consists of thirteen factions. Not "
+"considered balanced."
 msgstr ""
 
 #. [era]: id=war_of_legends
@@ -40,9 +55,24 @@ msgstr ""
 msgid "War of Legends Era"
 msgstr ""
 
+#. [era]: id=war_of_legends
+#: War_of_Legends/eras/War_of_Legends.cfg:9
+msgid ""
+"An era consisting of thirteen of my most favourite MP factions. Mostly "
+"balanced."
+msgstr ""
+
 #. [era]: id=wol_rpg
 #: War_of_Legends/eras/War_of_Legends_RPG.cfg:7
 msgid "War of Legends RPG"
+msgstr ""
+
+#. [era]: id=wol_rpg
+#: War_of_Legends/eras/War_of_Legends_RPG.cfg:11
+msgid ""
+"An era with lower level units: with level one leaders, with no units for "
+"recruitment. Consists of thirteen factions and is meant to be played in "
+"scenarios, which involve roleplaying elements (RPG)."
 msgstr ""
 
 #. [multiplayer_side]: id=Aragwaithi, type=random
@@ -765,23 +795,29 @@ msgstr ""
 
 #: War_of_Legends/macros/special-notes.cfg:70
 msgid ""
+"This unit has enchanted attacks, which always have a high chance of hitting "
+"an opponent, regardless of the defensive capabilities of the opponent."
+msgstr ""
+
+#: War_of_Legends/macros/special-notes.cfg:73
+msgid ""
 " This unit can hide in desert type terrain and remain undetected by its "
 "enemies."
 msgstr ""
 
-#: War_of_Legends/macros/special-notes.cfg:73
+#: War_of_Legends/macros/special-notes.cfg:76
 msgid ""
 " This unit is capable of distracting opponents, allowing allied units to "
 "trespass their Zones of Control and move unhindered around them."
 msgstr ""
 
-#: War_of_Legends/macros/special-notes.cfg:76
+#: War_of_Legends/macros/special-notes.cfg:79
 msgid ""
 " This unit regains 4 HP at the beginning of its turn. If is poisoned, it "
 "will be cured of it instead."
 msgstr ""
 
-#: War_of_Legends/macros/special-notes.cfg:79
+#: War_of_Legends/macros/special-notes.cfg:82
 msgid ""
 " In marshlands, this unit's prowling skill renders it invisible to enemies "
 "unless it is immediately adjacent or has revealed itself by attacking."
@@ -982,32 +1018,46 @@ msgid ""
 msgstr ""
 
 #: War_of_Legends/macros/weapon-specials.cfg:75
-msgid "precision"
+msgid "enchanted"
+msgstr ""
+
+#: War_of_Legends/macros/weapon-specials.cfg:76
+msgid "Enchanted"
 msgstr ""
 
 #: War_of_Legends/macros/weapon-specials.cfg:76
 msgid ""
+"This attack always has a 60% chance to hit regardless of the defensive "
+"ability of the unit being attacked."
+msgstr ""
+
+#: War_of_Legends/macros/weapon-specials.cfg:85
+msgid "precision"
+msgstr ""
+
+#: War_of_Legends/macros/weapon-specials.cfg:86
+msgid ""
 "When used offensively, this attack always has at least a 50% chance to hit."
 msgstr ""
 
-#: War_of_Legends/macros/weapon-specials.cfg:76
+#: War_of_Legends/macros/weapon-specials.cfg:86
 msgid "Precision"
 msgstr ""
 
-#: War_of_Legends/macros/weapon-specials.cfg:88
-#: War_of_Legends/macros/weapon-specials.cfg:89
+#: War_of_Legends/macros/weapon-specials.cfg:98
+#: War_of_Legends/macros/weapon-specials.cfg:99
 msgid "shock"
 msgstr ""
 
-#: War_of_Legends/macros/weapon-specials.cfg:90
-#: War_of_Legends/macros/weapon-specials.cfg:91
+#: War_of_Legends/macros/weapon-specials.cfg:100
+#: War_of_Legends/macros/weapon-specials.cfg:101
 msgid ""
 "When this attack is used on offense, the opponent will retaliate with one "
 "less strike than normally, to a minimum of one strike."
 msgstr ""
 
-#: War_of_Legends/macros/weapon-specials.cfg:90
-#: War_of_Legends/macros/weapon-specials.cfg:91
+#: War_of_Legends/macros/weapon-specials.cfg:100
+#: War_of_Legends/macros/weapon-specials.cfg:101
 msgid "Shock"
 msgstr ""
 
@@ -1269,7 +1319,7 @@ msgid ""
 "Inhabiting the coastal and aquatic regions of Irdya, the Carapaces are a "
 "peaceful people. Though not warlike, these creatures are heavily resistant "
 "to all sorts of damage except esoteric magic or gelid-based weaponry. They "
-"possess moderate strength and only take up arms when threaten by an enemy. "
+"possess moderate strength and only take up arms when threatened by an enemy. "
 "Carapaces have no difficulty moving through most terrain, but are hindered "
 "traversing mountainous or icy regions."
 msgstr ""
@@ -1291,7 +1341,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: War_of_Legends/units/carapaces/Gallant.cfg:26
-#: War_of_Legends/units/carapaces/Warrior.cfg:30
+#: War_of_Legends/units/carapaces/Warrior.cfg:27
 #: War_of_Legends/units/minotaurs/Savage.cfg:27
 msgid "mace"
 msgstr ""
@@ -1299,7 +1349,7 @@ msgstr ""
 #. [attack]: type=impact
 #: War_of_Legends/units/carapaces/Gallant.cfg:35
 #: War_of_Legends/units/carapaces/Regular.cfg:33
-#: War_of_Legends/units/carapaces/Warrior.cfg:39
+#: War_of_Legends/units/carapaces/Warrior.cfg:36
 msgid "water breath"
 msgstr ""
 
@@ -1833,7 +1883,7 @@ msgstr ""
 #: War_of_Legends/units/human-legion/Dark_Raider.cfg:23
 #: War_of_Legends/units/human-legion/Dark_Soldier.cfg:21
 #: War_of_Legends/units/human-legion/Dark_Warrior.cfg:38
-#: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:29
+#: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:24
 #: War_of_Legends/units/nagas/Naga_Hunter.cfg:41
 #: War_of_Legends/units/nagas/Naga_Marksman.cfg:28
 #: War_of_Legends/units/undead/Skele_Death_Squire.cfg:35
@@ -1949,7 +1999,7 @@ msgid "female^Moon Cleric"
 msgstr ""
 
 #. [unit_type]: id=Moon Cleric, race=southern elf
-#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:23
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:20
 msgid ""
 "As a mystic matures, she is offered a choice - to follow the Sun or the "
 "Moon. The followers of the moon have access to ice magic and the ability to "
@@ -1958,8 +2008,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:27
-#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:28
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:24
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:25
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:32
 #: War_of_Legends/units/human-aragwaithi/Aragwaith_Slayer.cfg:27
 #: War_of_Legends/units/human-campaigns/Loyalist_Infantry_Commander.cfg:32
@@ -1969,19 +2019,9 @@ msgstr ""
 msgid "glaive"
 msgstr ""
 
-#. [attack]: type=arcane
-#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:36
-#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:37
-#: War_of_Legends/units/elves-desert/Mystic.cfg:36
-#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:36
-#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:37
-#: War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:103
-msgid "aura blast"
-msgstr ""
-
 #. [attack]: type=cold
-#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:47
-#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:48
+#: War_of_Legends/units/elves-desert/Moon_Cleric.cfg:32
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:33
 msgid "iceball"
 msgstr ""
 
@@ -1991,7 +2031,7 @@ msgid "female^Moon Enchantress"
 msgstr ""
 
 #. [unit_type]: id=Moon Enchantress, race=southern elf
-#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:24
+#: War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:21
 msgid ""
 "With wings as green as jade, and the power to freeze the very life out of "
 "enemies, the Enchantresses are as beautiful as they are deadly."
@@ -2011,7 +2051,7 @@ msgstr ""
 
 #. [attack]: type=impact
 #: War_of_Legends/units/elves-desert/Mystic.cfg:26
-#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:25
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:22
 #: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:26
 #: War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:94
 #: War_of_Legends/units/human-mages/Mage_Cleric.cfg:32
@@ -2037,6 +2077,12 @@ msgstr ""
 #: War_of_Legends/units/orcs/Warlock.cfg:31
 #: War_of_Legends/units/undead/Necro_Deathmaster.cfg:29
 msgid "staff"
+msgstr ""
+
+#. [attack]: type=arcane
+#: War_of_Legends/units/elves-desert/Mystic.cfg:36
+#: War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:103
+msgid "aura blast"
 msgstr ""
 
 #. [unit_type]: id=South Elven Protector, race=southern elf
@@ -2077,15 +2123,15 @@ msgid "female^Sun Priestess"
 msgstr ""
 
 #. [unit_type]: id=Sun Priestess, race=southern elf
-#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:21
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:18
 msgid ""
 "The followers of the Sun have access to the dreaded fire magic. Capable of "
 "shooting fireballs, the priestess is a worthy opponent."
 msgstr ""
 
 #. [attack]: type=fire
-#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:47
-#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:48
+#: War_of_Legends/units/elves-desert/Sun_Priestess.cfg:32
+#: War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:36
 #: War_of_Legends/units/human-outlaws/Sorcerer.cfg:110
 #: War_of_Legends/units/human-outlaws/Wizard.cfg:108
 #: War_of_Legends/units/minotaurs/Elder.cfg:51
@@ -3524,12 +3570,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Infantryman, race=human
-#: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:10
+#: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:5
 msgid "Infantryman"
 msgstr ""
 
 #. [unit_type]: id=Infantryman, race=human
-#: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:24
+#: War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:19
 msgid ""
 "Infantrymen form the core of the human armies. They have gone through "
 "intensive training and can hold their ground against most foes."
@@ -3545,8 +3591,8 @@ msgstr ""
 msgid ""
 "Certain female mage apprentices are chosen from admission into the academies "
 "to study the magic of light. After graduation, they become Adepts. These "
-"magi can summon the Light in the form of energy balls and are able cure "
-"wounded allies."
+"magi can summon the Light in the form of energy balls and are able slightly "
+"heal wounded allies."
 msgstr ""
 
 #. [unit_type]: id=Cleric, race=human
@@ -3565,7 +3611,6 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: War_of_Legends/units/human-mages/Mage_Cleric.cfg:41
-#: War_of_Legends/units/human-mages/Mage_Nature.cfg:74
 #: War_of_Legends/units/human-mages/Mage_Prophetess_of_Light.cfg:44
 #: War_of_Legends/units/minotaurs/Elder.cfg:39
 #: War_of_Legends/units/minotaurs/Mystic.cfg:38
@@ -3593,7 +3638,7 @@ msgstr ""
 #. [attack]: type=fire
 #: War_of_Legends/units/human-mages/Mage_Forest.cfg:60
 #: War_of_Legends/units/human-mages/Mage_Nature.cfg:62
-#: War_of_Legends/units/human-mages/Mage_Wood.cfg:60
+#: War_of_Legends/units/human-mages/Mage_Wood.cfg:59
 #: War_of_Legends/units/orcs/Shaman.cfg:37
 #: War_of_Legends/units/orcs/Sorcerer.cfg:36
 #: War_of_Legends/units/orcs/Warlock.cfg:40
@@ -3613,6 +3658,11 @@ msgid ""
 "\n"
 "Having full control of nature's power, they can use it effectively in "
 "battles and can heal themselves and nearby allies."
+msgstr ""
+
+#. [attack]: type=arcane
+#: War_of_Legends/units/human-mages/Mage_Nature.cfg:74
+msgid "terra orbis"
 msgstr ""
 
 #. [unit_type]: id=Prophetess of Light, race=human
@@ -4119,19 +4169,19 @@ msgid ""
 "powerful aura combined with the crystals they wield."
 msgstr ""
 
-#. [unit_type]: id=Dust Devil, race=monster
+#. [unit_type]: id=Dust Devil, race=elemental
 #: War_of_Legends/units/monsters/Dust_Devil.cfg:5
 msgid "Dust Devil"
 msgstr ""
 
-#. [unit_type]: id=Dust Devil, race=monster
+#. [unit_type]: id=Dust Devil, race=elemental
 #: War_of_Legends/units/monsters/Dust_Devil.cfg:19
 msgid ""
 "A swirl of dust and desert sand, quick as a wind, impossible to spot when "
 "resting and as dangerous as a sand storm when riled."
 msgstr ""
 
-#. [unit_type]: id=Dust Devil, race=monster
+#. [unit_type]: id=Dust Devil, race=elemental
 #: War_of_Legends/units/monsters/Dust_Devil.cfg:19
 msgid ""
 " Dust Devils are restricted to land, they cannot move over aquatic terrain "
@@ -4139,39 +4189,39 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:62
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:50
 msgid "twister"
 msgstr ""
 
 #. [attack]: type=impact
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:74
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:62
 msgid "sand storm"
 msgstr ""
 
 #. [regenerate]
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:93
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:81
 msgid "dust recuperation"
 msgstr ""
 
 #. [regenerate]
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:94
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:82
 msgid ""
 "Dust Recuperation:\n"
 "The unit will heal itself 6 HP per turn on sand or dirt terrain."
 msgstr ""
 
 #. [advancement]: id=Dust1
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:101
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:89
 msgid "a stronger Dust Devil"
 msgstr ""
 
 #. [advancement]: id=Dust2
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:122
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:110
 msgid "a taller Dust Devil"
 msgstr ""
 
 #. [advancement]: id=Dust3
-#: War_of_Legends/units/monsters/Dust_Devil.cfg:137
+#: War_of_Legends/units/monsters/Dust_Devil.cfg:125
 msgid "a fully-healed Dust Devil"
 msgstr ""
 
@@ -4665,7 +4715,7 @@ msgid "Death Baron"
 msgstr ""
 
 #. [unit_type]: id=Death Baron, race=undead
-#: War_of_Legends/units/undead/Skele_Death_Baron.cfg:41
+#: War_of_Legends/units/undead/Skele_Death_Baron.cfg:47
 msgid ""
 "Sometimes the mightiest warriors and generals, cursed with hate and angst, "
 "come back to this world as Death Knights. Death Barons serve them whilst "
