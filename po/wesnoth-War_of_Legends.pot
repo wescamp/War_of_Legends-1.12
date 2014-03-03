@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: War_of_Legends-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:56+0100\n"
+"POT-Creation-Date: 2014-03-03 21:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #. [era]: id=core_legends
 #: ./War_of_Legends/eras/Core_Legends.cfg:10
-msgid "An era consisting of six factions, which were part of the <i>Great Legend Era</i>. Mostly balanced."
+msgid "An era consisting of six factions, which were part of the 'Great Legend Era'. Mostly balanced."
 msgstr ""
 
 #. [era]: id=empowered_legends
@@ -1082,6 +1082,31 @@ msgstr ""
 msgid "Carapaces have an extremely long lifespan. The eldest of them, are of a massive size, an inch shorter to an adult troll, and are near indestructible fighters. Every foe thinks twice before attacking these giants."
 msgstr ""
 
+#. [unit_type]: id=Dwarvish Arbalestier, race=dwarf
+#: ./War_of_Legends/units/dwarves/Arbalestier.cfg:4
+msgid "Dwarvish Arbalestier"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Arbalestier, race=dwarf
+#: ./War_of_Legends/units/dwarves/Arbalestier.cfg:19
+msgid "The dwarven engineers have an obsession to tinker with their gadgets incessantly  until they acquire perfection. Considering the aforementioned fact, the dwarven arbalest is one of the most finest weapons every created; beautifully crafted for the sole intention of devastating shots."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Crossbowman, race=dwarf
+#: ./War_of_Legends/units/dwarves/Crossbowman.cfg:4
+msgid "Dwarvish Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Crossbowman, race=dwarf
+#: ./War_of_Legends/units/dwarves/Crossbowman.cfg:24
+msgid "Even though thundersticks are usually the better weapon, some dwarves prefer to use the crossbow. As the crossbow is a faster reloading, lighter weapon, they can be more mobile, while still retaining high lethality at a distance."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Marksman, race=dwarf, description=TODO
+#: ./War_of_Legends/units/dwarves/Marksman.cfg:4
+msgid "Dwarvish Marksman"
+msgstr ""
+
 #. [race]: id=elemental
 #: ./War_of_Legends/units/elementals.cfg:5
 msgid "race^Elemental"
@@ -1428,18 +1453,18 @@ msgid "Having adapted to the harsh climate of the barren deserts, these elves ha
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Archer, race=aragwaith
-#. [unit_type]: id=South Elven Archer, race=southern elf
+#. [unit_type]: id=Southern Archer, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Archer.cfg:5 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Archer.cfg:5
 msgid "Archer"
 msgstr ""
 
-#. [unit_type]: id=South Elven Archer, race=southern elf
+#. [unit_type]: id=Southern Archer, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Archer.cfg:19
 msgid "Archers of the Southern Elves are trained from youth in archery, and so skilled in long-range combat. Though their bows are cruder and their arrows less plentiful than their elvish ancestors, they fight with ferocity that does credit to their race."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./War_of_Legends/units/elves-desert/Archer.cfg:23 ./War_of_Legends/units/elves-desert/Champion.cfg:25 ./War_of_Legends/units/elves-desert/Guard.cfg:40 ./War_of_Legends/units/elves-desert/Hunter.cfg:27 ./War_of_Legends/units/elves-desert/Marksman.cfg:22 ./War_of_Legends/units/elves-desert/Protector.cfg:41 ./War_of_Legends/units/elves-desert/Sharpshooter.cfg:23 ./War_of_Legends/units/elves-desert/Warrior.cfg:23 ./War_of_Legends/units/elves-wood/Noble.cfg:28 ./War_of_Legends/units/elves-wood/Prowler.cfg:43 ./War_of_Legends/units/elves-wood/Trapper.cfg:39 ./War_of_Legends/units/gnolls/Deadeye.cfg:27 ./War_of_Legends/units/gnolls/Marksman.cfg:26 ./War_of_Legends/units/human-campaigns/Horse_Archer_Knight.cfg:31 ./War_of_Legends/units/human-campaigns/Horse_Cavalry.cfg:25 ./War_of_Legends/units/human-campaigns/Horse_Cavalry_Archer.cfg:28 ./War_of_Legends/units/human-campaigns/Loyalist_Captain.cfg:55 ./War_of_Legends/units/human-campaigns/Loyalist_Warmaster.cfg:55 ./War_of_Legends/units/human-campaigns/Loyalist_Warrior.cfg:48 ./War_of_Legends/units/human-legion/Dark_Cavalier.cfg:23 ./War_of_Legends/units/human-legion/Dark_Commander.cfg:38 ./War_of_Legends/units/human-legion/Dark_Fighter.cfg:37 ./War_of_Legends/units/human-legion/Dark_Knight.cfg:22 ./War_of_Legends/units/human-legion/Dark_Pillager.cfg:23 ./War_of_Legends/units/human-legion/Dark_Raider.cfg:23 ./War_of_Legends/units/human-legion/Dark_Soldier.cfg:21 ./War_of_Legends/units/human-legion/Dark_Warrior.cfg:38 ./War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:24 ./War_of_Legends/units/nagas/Naga_Hunter.cfg:41 ./War_of_Legends/units/nagas/Naga_Marksman.cfg:28 ./War_of_Legends/units/undead/Skele_Death_Squire.cfg:35
+#: ./War_of_Legends/units/elves-desert/Archer.cfg:23 ./War_of_Legends/units/elves-desert/Champion.cfg:25 ./War_of_Legends/units/elves-desert/Guard.cfg:39 ./War_of_Legends/units/elves-desert/Hunter.cfg:27 ./War_of_Legends/units/elves-desert/Marksman.cfg:22 ./War_of_Legends/units/elves-desert/Protector.cfg:40 ./War_of_Legends/units/elves-desert/Sharpshooter.cfg:23 ./War_of_Legends/units/elves-desert/Warrior.cfg:23 ./War_of_Legends/units/elves-wood/Noble.cfg:28 ./War_of_Legends/units/elves-wood/Prowler.cfg:43 ./War_of_Legends/units/elves-wood/Trapper.cfg:39 ./War_of_Legends/units/gnolls/Deadeye.cfg:27 ./War_of_Legends/units/gnolls/Marksman.cfg:26 ./War_of_Legends/units/human-campaigns/Horse_Archer_Knight.cfg:31 ./War_of_Legends/units/human-campaigns/Horse_Cavalry.cfg:25 ./War_of_Legends/units/human-campaigns/Horse_Cavalry_Archer.cfg:28 ./War_of_Legends/units/human-campaigns/Loyalist_Captain.cfg:55 ./War_of_Legends/units/human-campaigns/Loyalist_Warmaster.cfg:55 ./War_of_Legends/units/human-campaigns/Loyalist_Warrior.cfg:48 ./War_of_Legends/units/human-legion/Dark_Cavalier.cfg:23 ./War_of_Legends/units/human-legion/Dark_Commander.cfg:38 ./War_of_Legends/units/human-legion/Dark_Fighter.cfg:37 ./War_of_Legends/units/human-legion/Dark_Knight.cfg:22 ./War_of_Legends/units/human-legion/Dark_Pillager.cfg:23 ./War_of_Legends/units/human-legion/Dark_Raider.cfg:23 ./War_of_Legends/units/human-legion/Dark_Soldier.cfg:21 ./War_of_Legends/units/human-legion/Dark_Warrior.cfg:38 ./War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:24 ./War_of_Legends/units/nagas/Naga_Hunter.cfg:41 ./War_of_Legends/units/nagas/Naga_Marksman.cfg:28 ./War_of_Legends/units/undead/Skele_Death_Squire.cfg:35
 msgid "sword"
 msgstr ""
 
@@ -1453,12 +1478,25 @@ msgstr ""
 msgid "female^Archer"
 msgstr ""
 
-#. [unit_type]: id=South Elven Champion, race=southern elf
+#. [unit_type]: id=Aragwaith Captain, race=aragwaith
+#. [unit_type]: id=Captain, race=human
+#. [unit_type]: id=Southern Captain, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Captain.cfg:5 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Captain.cfg:5 ./War_of_Legends/units/human-campaigns/Loyalist_Captain.cfg:4
+msgid "Captain"
+msgstr ""
+
+#. [unit_type]: id=Southern Captain, race=southern elf
+#. [unit_type]: id=Southern Chieftain, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Captain.cfg:29 ./War_of_Legends/units/elves-desert/Chieftain.cfg:29
+msgid "Description needed."
+msgstr ""
+
+#. [unit_type]: id=Southern Champion, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Champion.cfg:4
 msgid "Champion"
 msgstr ""
 
-#. [unit_type]: id=South Elven Champion, race=southern elf
+#. [unit_type]: id=Southern Champion, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Champion.cfg:21
 msgid "The Champions are avoided by most foes due to their superb swordsmanship. Capable of inflicting grievous wounds, the Champions fight best at twilight hours."
 msgstr ""
@@ -1468,34 +1506,59 @@ msgstr ""
 msgid "bolas"
 msgstr ""
 
+#. [unit_type]: id=Southern Chieftain, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Chieftain.cfg:5
+msgid "Chieftain"
+msgstr ""
+
+#. [unit_type]: id=Empyrean Druid, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Empyrean_Druid.cfg:4
+msgid "female^Empyrean Druid"
+msgstr ""
+
+#. [unit_type]: id=Empyrean Druid, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Empyrean_Druid.cfg:22
+msgid "Initiation into the Circle of Druids is a difficult task, requiring a hard set of challenges. Mystics, who have managed to join this circle, are taught the arts of healing and arcane magic spells."
+msgstr ""
+
+#. [attack]: type=impact
+#: ./War_of_Legends/units/elves-desert/Empyrean_Druid.cfg:27 ./War_of_Legends/units/elves-desert/Mystic.cfg:26 ./War_of_Legends/units/elves-desert/Sun_Priestess.cfg:22 ./War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:26 ./War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:94 ./War_of_Legends/units/human-mages/Mage_Cleric.cfg:32 ./War_of_Legends/units/human-mages/Mage_Forest.cfg:51 ./War_of_Legends/units/human-mages/Mage_Nature.cfg:53 ./War_of_Legends/units/human-mages/Mage_Prophetess_of_Light.cfg:35 ./War_of_Legends/units/human-mages/Mage_Storm.cfg:41 ./War_of_Legends/units/human-mages/Mage_Tempest.cfg:39 ./War_of_Legends/units/human-mages/Mage_Thunder.cfg:39 ./War_of_Legends/units/human-mages/Mage_Wood.cfg:50 ./War_of_Legends/units/human-outlaws/Huntress.cfg:90 ./War_of_Legends/units/human-outlaws/Prowler.cfg:91 ./War_of_Legends/units/human-outlaws/Shaman.cfg:127 ./War_of_Legends/units/human-outlaws/Sorcerer.cfg:100 ./War_of_Legends/units/human-outlaws/Tracker.cfg:90 ./War_of_Legends/units/human-outlaws/Wizard.cfg:99 ./War_of_Legends/units/minotaurs/Elder.cfg:30 ./War_of_Legends/units/minotaurs/Mystic.cfg:29 ./War_of_Legends/units/minotaurs/Shaman.cfg:29 ./War_of_Legends/units/minotaurs/Warlock.cfg:27 ./War_of_Legends/units/orcs/Shaman.cfg:28 ./War_of_Legends/units/orcs/Sorcerer.cfg:27 ./War_of_Legends/units/orcs/Warlock.cfg:31 ./War_of_Legends/units/undead/Necro_Deathmaster.cfg:29
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=arcane
+#: ./War_of_Legends/units/elves-desert/Empyrean_Druid.cfg:38 ./War_of_Legends/units/elves-desert/Mystic.cfg:36 ./War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:103
+msgid "aura blast"
+msgstr ""
+
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
-#. [unit_type]: id=South Elven Guard, race=southern elf
+#. [unit_type]: id=Southern Guard, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Guard.cfg:5 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Guard.cfg:5
 msgid "Guard"
 msgstr ""
 
-#. [unit_type]: id=South Elven Guard, race=southern elf
-#: ./War_of_Legends/units/elves-desert/Guard.cfg:36
+#. [unit_type]: id=Southern Guard, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Guard.cfg:35
 msgid "Guards form the main defense forces of the Southern Elves. Equipped with a sword, shield, and reinforced leather armor, these elves are a challenge to any foe."
 msgstr ""
 
-#. [unit_type]: id=South Elven Hunter, race=southern elf
+#. [unit_type]: id=Southern Hunter, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Hunter.cfg:5
 msgid "Hunter"
 msgstr ""
 
-#. [unit_type]: id=South Elven Hunter, race=southern elf
+#. [unit_type]: id=Southern Hunter, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Hunter.cfg:21
 msgid "Hunters form the main melee forces of the South Elven military. Armed with swords and bolas, these fighters are more than a match for anything, if they are on their home terrain of the deserts, that is."
 msgstr ""
 
 #. [unit_type]: id=Gnoll Marksman, race=gnoll
-#. [unit_type]: id=South Elven Marksman, race=southern elf
+#. [unit_type]: id=Southern Marksman, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Marksman.cfg:4 ./War_of_Legends/units/gnolls/Marksman.cfg:5
 msgid "Marksman"
 msgstr ""
 
-#. [unit_type]: id=South Elven Marksman, race=southern elf
+#. [unit_type]: id=Southern Marksman, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Marksman.cfg:18
 msgid "South Elven Marksman are expert in use of the bow. Though their bows and arrows are not as fine as those of their ancestors, they continue to hone their skill. This great skill with the bow compensates for their lack of skill in melee combat."
 msgstr ""
@@ -1522,7 +1585,7 @@ msgstr ""
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: ./War_of_Legends/units/elves-desert/Moon_Cleric.cfg:24 ./War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:25 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:32 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Slayer.cfg:27 ./War_of_Legends/units/human-campaigns/Loyalist_Infantry_Commander.cfg:32 ./War_of_Legends/units/human-loyalists/Loyalist_Glaiver.cfg:30 ./War_of_Legends/units/windsong/Pathfinder.cfg:28 ./War_of_Legends/units/windsong/Pathfinder.cfg:40
+#: ./War_of_Legends/units/elves-desert/Moon_Cleric.cfg:24 ./War_of_Legends/units/elves-desert/Moon_Enchantress.cfg:25 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Flagbearer.cfg:32 ./War_of_Legends/units/human-aragwaithi/Aragwaith_Slayer.cfg:27 ./War_of_Legends/units/human-campaigns/Loyalist_Infantry_Commander.cfg:32 ./War_of_Legends/units/human-loyalists/Loyalist_Sentry.cfg:30 ./War_of_Legends/units/windsong/Pathfinder.cfg:28 ./War_of_Legends/units/windsong/Pathfinder.cfg:40
 msgid "glaive"
 msgstr ""
 
@@ -1541,42 +1604,32 @@ msgstr ""
 msgid "With wings as green as jade, and the power to freeze the very life out of enemies, the Enchantresses are as beautiful as they are deadly."
 msgstr ""
 
-#. [unit_type]: id=South Elven Mystic, race=southern elf
+#. [unit_type]: id=Southern Mystic, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Mystic.cfg:5
 msgid "female^Mystic"
 msgstr ""
 
-#. [unit_type]: id=South Elven Mystic, race=southern elf
+#. [unit_type]: id=Southern Mystic, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Mystic.cfg:22
 msgid "South Elven Mystics are trained in the arts of healing and the use of their aura to hinder enemies."
 msgstr ""
 
-#. [attack]: type=impact
-#: ./War_of_Legends/units/elves-desert/Mystic.cfg:26 ./War_of_Legends/units/elves-desert/Sun_Priestess.cfg:22 ./War_of_Legends/units/elves-desert/Sun_Sorceress.cfg:26 ./War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:94 ./War_of_Legends/units/human-mages/Mage_Cleric.cfg:32 ./War_of_Legends/units/human-mages/Mage_Forest.cfg:51 ./War_of_Legends/units/human-mages/Mage_Nature.cfg:53 ./War_of_Legends/units/human-mages/Mage_Prophetess_of_Light.cfg:35 ./War_of_Legends/units/human-mages/Mage_Storm.cfg:41 ./War_of_Legends/units/human-mages/Mage_Tempest.cfg:39 ./War_of_Legends/units/human-mages/Mage_Thunder.cfg:39 ./War_of_Legends/units/human-mages/Mage_Wood.cfg:50 ./War_of_Legends/units/human-outlaws/Huntress.cfg:90 ./War_of_Legends/units/human-outlaws/Prowler.cfg:91 ./War_of_Legends/units/human-outlaws/Shaman.cfg:127 ./War_of_Legends/units/human-outlaws/Sorcerer.cfg:100 ./War_of_Legends/units/human-outlaws/Tracker.cfg:90 ./War_of_Legends/units/human-outlaws/Wizard.cfg:99 ./War_of_Legends/units/minotaurs/Elder.cfg:30 ./War_of_Legends/units/minotaurs/Mystic.cfg:29 ./War_of_Legends/units/minotaurs/Shaman.cfg:29 ./War_of_Legends/units/minotaurs/Warlock.cfg:27 ./War_of_Legends/units/orcs/Shaman.cfg:28 ./War_of_Legends/units/orcs/Sorcerer.cfg:27 ./War_of_Legends/units/orcs/Warlock.cfg:31 ./War_of_Legends/units/undead/Necro_Deathmaster.cfg:29
-msgid "staff"
-msgstr ""
-
-#. [attack]: type=arcane
-#: ./War_of_Legends/units/elves-desert/Mystic.cfg:36 ./War_of_Legends/units/human-mages/Mage_Adept_of_Light.cfg:103
-msgid "aura blast"
-msgstr ""
-
-#. [unit_type]: id=South Elven Protector, race=southern elf
+#. [unit_type]: id=Southern Protector, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Protector.cfg:5
 msgid "Protector"
 msgstr ""
 
-#. [unit_type]: id=South Elven Protector, race=southern elf
-#: ./War_of_Legends/units/elves-desert/Protector.cfg:37
-msgid "Elite defenders among the guards are promoted to Protectors. Heavily armored in leather and welding a shield made from the rarest of metals, the Protector is only seen in the south elven armies and their capital city."
+#. [unit_type]: id=Southern Protector, race=southern elf
+#: ./War_of_Legends/units/elves-desert/Protector.cfg:36
+msgid "Elite defenders among the guards are promoted to Protectors. Heavily armoured in leather and welding a shield made from the rarest of metals, the Protector is only seen in the south elven armies and their capital city."
 msgstr ""
 
-#. [unit_type]: id=South Elven Sharpshooter, race=southern elf
+#. [unit_type]: id=Southern Sharpshooter, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Sharpshooter.cfg:4
 msgid "Sharpshooter"
 msgstr ""
 
-#. [unit_type]: id=South Elven Sharpshooter, race=southern elf
+#. [unit_type]: id=Southern Sharpshooter, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Sharpshooter.cfg:19
 msgid "The most elite archers among the southern elves, Sharpshooters use the best bows and arrows available, which makes them just as deadly as their ancestors. Sharpshooters are incredibly accurate, even when firing very quickly, which makes them excellent at picking off entrenched enemies."
 msgstr ""
@@ -1611,13 +1664,13 @@ msgstr ""
 msgid "The followers of the Sun have access to the dreaded fire magic. Possessing the strongest fire spells known, the sorceress can inflict heavy damage to beings who dread fire."
 msgstr ""
 
-#. [unit_type]: id=South Elven Warrior, race=southern elf
+#. [unit_type]: id=Southern Warrior, race=southern elf
 #. [unit_type]: id=Warrior, race=human
 #: ./War_of_Legends/units/elves-desert/Warrior.cfg:4 ./War_of_Legends/units/human-campaigns/Loyalist_Warrior.cfg:4
 msgid "Warrior"
 msgstr ""
 
-#. [unit_type]: id=South Elven Warrior, race=southern elf
+#. [unit_type]: id=Southern Warrior, race=southern elf
 #: ./War_of_Legends/units/elves-desert/Warrior.cfg:19
 msgid "Warriors, having mastered the art of dual sword combat, are deadly foes. They prefer swordplay but use the bolas to tangle archers and then finish them off with their swords."
 msgstr ""
@@ -1958,12 +2011,6 @@ msgid "The Aragwaithi are a noble people, fragile in body, but their training ma
 msgstr ""
 
 #. [unit_type]: id=Aragwaith Captain, race=aragwaith
-#. [unit_type]: id=Captain, race=human
-#: ./War_of_Legends/units/human-aragwaithi/Aragwaith_Captain.cfg:5 ./War_of_Legends/units/human-campaigns/Loyalist_Captain.cfg:4
-msgid "Captain"
-msgstr ""
-
-#. [unit_type]: id=Aragwaith Captain, race=aragwaith
 #: ./War_of_Legends/units/human-aragwaithi/Aragwaith_Captain.cfg:25
 msgid "Aragwaithi captains lead the troops on the battlefield and are known as the best human officers existing: they can predict the enemy tactics and nullify their strategies."
 msgstr ""
@@ -2268,6 +2315,21 @@ msgstr ""
 #. [attack]: type=impact
 #: ./War_of_Legends/units/human-campaigns/Loyalist_Infantry_Commander.cfg:41
 msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=Titanium Decimator, race=human
+#: ./War_of_Legends/units/human-campaigns/Loyalist_Titanium_Decimator.cfg:7
+msgid "Titanium Decimator"
+msgstr ""
+
+#. [unit_type]: id=Titanium Decimator, race=human
+#: ./War_of_Legends/units/human-campaigns/Loyalist_Titanium_Decimator.cfg:31
+msgid "Iron Maulers were given their name for obvious justifications but, exceptional members of their rank are promoted to more prominence. Often found to serve as the bodyguards of kings emperors, or even lords, the Titanium Decimators are seldom sighted on the battlefield as they menacing slow in terms of mobility. However, if one is ever sighted on the battlefield, slowly advancing in its unstoppable path, then a potential adversary's most beneficial move would be to withdraw from the battle and flee in utmost humiliation. This is because the Titanium Decimator is capable of dealing deathly blows with a single strike of its weapon and are known to fight superbly better in situations where they are outnumbered."
+msgstr ""
+
+#. [attack]: type=impact
+#: ./War_of_Legends/units/human-campaigns/Loyalist_Titanium_Decimator.cfg:43
+msgid "reinforced flail"
 msgstr ""
 
 #. [unit_type]: id=Warmaster, race=human
@@ -2646,16 +2708,6 @@ msgstr ""
 msgid "Chevaliers who had served the Light long enough are entitled Crusaders."
 msgstr ""
 
-#. [unit_type]: id=Glaiver, race=human
-#: ./War_of_Legends/units/human-loyalists/Loyalist_Glaiver.cfg:4
-msgid "Glaiver"
-msgstr ""
-
-#. [unit_type]: id=Glaiver, race=human
-#: ./War_of_Legends/units/human-loyalists/Loyalist_Glaiver.cfg:26
-msgid "Certain Bladesmen are awarded the glaive for their loyalty to their Generals. The glaivers form the bulk of the human infantry and are quick in killing off weak enemies who dare attack them. Unlike other human troops, glaivers are slow as they wear more armaments."
-msgstr ""
-
 #. [unit_type]: id=Infantryman, race=human
 #: ./War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:5
 msgid "Infantryman"
@@ -2664,6 +2716,16 @@ msgstr ""
 #. [unit_type]: id=Infantryman, race=human
 #: ./War_of_Legends/units/human-loyalists/Loyalist_Infantryman.cfg:19
 msgid "Infantrymen form the core of the human armies. They have gone through intensive training and can hold their ground against most foes."
+msgstr ""
+
+#. [unit_type]: id=Sentry, race=human
+#: ./War_of_Legends/units/human-loyalists/Loyalist_Sentry.cfg:4
+msgid "Sentry"
+msgstr ""
+
+#. [unit_type]: id=Sentry, race=human
+#: ./War_of_Legends/units/human-loyalists/Loyalist_Sentry.cfg:26
+msgid "Generals and other superior military commanders of the human armies have realise that equipping soldiers solely for offensive combat would create a bias in their armies. Thus, some soldiers have undertaken the role of defenders: they are more heavily-armoured, but have less mobility."
 msgstr ""
 
 #. [unit_type]: id=Adept of Light, race=human
